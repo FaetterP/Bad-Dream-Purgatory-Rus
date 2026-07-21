@@ -1,0 +1,100 @@
+#system_new_game
+	New Game
+#system_options
+	Options
+#system_menu
+	Menu
+#system_main_menu
+	Main Menu
+#system_exit
+	Exit
+#system_exit_game
+	Exit Game
+#system_back
+	Back
+#system_resume
+	Resume
+#system_resume_game
+	Resume Game
+#system_save_game
+	Save Game
+#system_load_game
+	Load Game
+#system_game_saved
+	Game Saved
+#system_continue
+	Continue
+#system_default
+	Default
+#system_on
+	ON
+#system_off
+	OFF
+#system_yes
+	Yes
+#system_no
+	No
+#system_screen_mode
+	Screen Mode
+#system_fullscreen
+	Fullscreen
+#system_window
+	Window
+#system_resolution
+	Resolution
+#system_ratio
+	Keep Original Ratio
+#system_texture_quality
+	Texture Quality
+#system_texture_quality_normal
+	Normal
+#system_texture_quality_good
+	Good
+#system_texture_quality_high
+	High
+#system_texture_quality_very_high
+	Very High
+#system_texture_quality_best
+	Best
+#system_fps
+	FPS
+#system_vsync
+	V-sync
+#system_aa
+	Anti Aliasing
+#system_paper_grain_main
+	Paper Grain (Main)
+#system_paper_grain_background
+	Paper Grain (Background)
+#system_dreamy_effect
+	Dreamy Effect
+#system_pencil_alpha
+	Pencil Alpha
+#system_global_volume
+	Global Volume
+#system_music_volume
+	Music Volume
+#system_sound_volume
+	Sound Volume
+#system_language
+	Language
+#system_hints
+	Hints
+#system_hints_text
+	In case of emergency break glass
+#system_more_games
+	More Games
+#system_credits
+	Credits
+#system_mode
+	Mode
+#system_mode_standard
+	Move Camera
+#system_mode_point_and_click
+	Point and Click
+#system_illustration
+	Illustration
+#system_translation
+	Translation
+#system_translator
+	(Enter your name here)
