@@ -1,100 +1,100 @@
 #system_new_game
-	New Game
+	Новая игра
 #system_options
-	Options
+	Настройки
 #system_menu
-	Menu
+	Меню
 #system_main_menu
-	Main Menu
+	Главное меню
 #system_exit
-	Exit
+	Выход
 #system_exit_game
-	Exit Game
+	Выйти из игры
 #system_back
-	Back
+	Назад
 #system_resume
-	Resume
+	Продолжить
 #system_resume_game
-	Resume Game
+	Продолжить игру
 #system_save_game
-	Save Game
+	Сохранить игру
 #system_load_game
-	Load Game
+	Загрузить игру
 #system_game_saved
-	Game Saved
+	Игра сохранена
 #system_continue
-	Continue
+	Продолжить
 #system_default
-	Default
+	По умолчанию
 #system_on
-	ON
+	ВКЛ
 #system_off
-	OFF
+	ВЫКЛ
 #system_yes
-	Yes
+	Да
 #system_no
-	No
+	Нет
 #system_screen_mode
-	Screen Mode
+	Режим экрана
 #system_fullscreen
-	Fullscreen
+	Полный экран
 #system_window
-	Window
+	Окно
 #system_resolution
-	Resolution
+	Разрешение
 #system_ratio
-	Keep Original Ratio
+	Сохранять пропорции
 #system_texture_quality
-	Texture Quality
+	Качество текстур
 #system_texture_quality_normal
-	Normal
+	Обычное
 #system_texture_quality_good
-	Good
+	Хорошее
 #system_texture_quality_high
-	High
+	Высокое
 #system_texture_quality_very_high
-	Very High
+	Очень высокое
 #system_texture_quality_best
-	Best
+	Наилучшее
 #system_fps
 	FPS
 #system_vsync
-	V-sync
+	Верт. синх.
 #system_aa
-	Anti Aliasing
+	Сглаживание
 #system_paper_grain_main
-	Paper Grain (Main)
+	Зернистость бумаги (основная)
 #system_paper_grain_background
-	Paper Grain (Background)
+	Зернистость бумаги (фон)
 #system_dreamy_effect
-	Dreamy Effect
+	Эффект сна
 #system_pencil_alpha
-	Pencil Alpha
+	Прозрачность карандаша
 #system_global_volume
-	Global Volume
+	Общая громкость
 #system_music_volume
-	Music Volume
+	Громкость музыки
 #system_sound_volume
-	Sound Volume
+	Громкость звука
 #system_language
-	Language
+	Язык
 #system_hints
-	Hints
+	Подсказки
 #system_hints_text
-	In case of emergency break glass
+	В случае чрезвычайной ситуации разбейте стекло
 #system_more_games
-	More Games
+	Другие игры
 #system_credits
-	Credits
+	Авторы
 #system_mode
-	Mode
+	Режим
 #system_mode_standard
-	Move Camera
+	Движение камеры
 #system_mode_point_and_click
-	Point and Click
+	Наведи и щёлкни
 #system_illustration
-	Illustration
+	Иллюстрации
 #system_translation
-	Translation
+	Перевод
 #system_translator
-	(Enter your name here)
+	(Введите здесь своё имя)
