@@ -29,9 +29,9 @@
 #purgatory_item_map
 	Карта
 #purgatory_item_crowbar
-	Ломик
+	Монтировка
 #purgatory_item_crowbar_broken
-	Сломанный ломик
+	Сломанная монтировка
 #purgatory_item_bat
 	Летучая мышь
 #purgatory_item_glue
@@ -93,9 +93,9 @@
 #purgatory_item_voodoo_doll
 	Кукла вуду
 #purgatory_item_needle
-	Игла
+	Иголка
 #purgatory_item_needle_thread
-	Игла с ниткой
+	Иголка с ниткой
 #purgatory_item_rag
 	Окровавленная тряпка
 #purgatory_item_pen
