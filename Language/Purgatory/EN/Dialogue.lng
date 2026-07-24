@@ -1,1409 +1,1409 @@
 #game_uninspired_story
-	Uninspired Story
+	Бездарная история
 #game_open_world
-	Open World
+	Открытый мир
 #game_great_escape
-	The Great Escape
+	Великий побег
 #game_chapters
-	CHAPTERS:
+	ГЛАВЫ:
 #purgatory_new_item
-	New Item
+	Новый предмет
 #purgatory_game_over
-	Game Over
+	Игра окончена
 #purgatory_uninspired_story
-	You were promised peace after death.
+	Тебе обещали покой после смерти.
 #purgatory_uninspired_story_02
-	And yet you woke up in a shallow grave...
+	Но всё же ты очнулся в неглубокой могиле...
 #purgatory_uninspired_story_03
-	Death is meaningless when you never lived.
+	Смерть бессмысленна, если ты никогда не жил.
 #purgatory_ink_death
-	Something changed when ink touched you.
+	Что-то изменилось, когда тебя коснулись чернила.
 #purgatory_ink_death_02
-	The creative force has burst into this world.
+	Сила создавать ворвалась в этот мир.
 #purgatory_ink_death_03
-	Your artistic freedom shaped the people around you.
+	Твоя свобода творчества сформировала людей вокруг тебя.
 #purgatory_ink_death_04
-	Some people say that ink is a terrible plague...
+	Некоторые говорят, что чернила - это ужасная чума...
 #purgatory_ink_death_05
-	But deep down you know this story doesn't end in the grave.
+	Но в глубине души ты знаешь, что эта история не заканчивается в могиле.
 #purgatory_ink_death_06
-	 Touched by ink, you now have the opportunity to write your own story.
+	 Прикоснувшись к чернилам, у тебя тебя теперь есть возможность написать собственную историю.
 #purgatory_dots
 	...
 #purgatory_gravedigger_first
-	New face, eh? Ain't seen you 'round these parts before.
-	Damn, you look like you've been through hell and back!
-	Missing an eye and a few fingers...
-	Covered in bites and scratches.
-	What the hell happened to you?
-	You look like a zombie, and you are covered in ink, so what's your story?
+	Новенький, а? Не видел тебя раньше в этих краях.
+	Чёрт, выглядишь будто прошёл через ад и вернулся обратно!
+	Без глаза и пары пальцев...
+	Покрытый укусами и царапинами.
+	Что за чертовщина с тобой стряслась?
+	Выглядишь как зомби и весь в чернилах. Так какая у тебя история?
 	...
-	Not much of a talker, eh?
-	Listen, I don't give a damn who you are. 
-	I got somethin' here that might come in handy. Take it or leave it, it's up to you.
+	Ты не из болтливых, да?
+	Слушай, мне плевать, кто ты такой.
+	У меня тут есть кое-что, что может пригодиться. Можешь забрать, можешь бросить здесь, дело твоё.
 #purgatory_gravedigger_note
-	What the hell is this scrap of paper?
+	Что, чёрт возьми, это за клочок бумаги?
 	...
-	Hold on a minute... 
-	Who the hell are you?
-	You ain't one of us, are you?
-	Ah, I see now... 
-	You're here to give us a goddamn purpose!
-	We've been stuck in this purgatory for far too long! 
-	Our creator ditched us, leaving us to rot.
-	We were offed before we even got the chance to live. 
-	Now we are trapped in this purgatory with no end in sight.
-	Our unfinished world was suffocating at the bottom of a pile of papers.
+	Погоди-ка минутку...
+	Кто ты такой, чёрт побери?
+	Ты ведь не из наших, не так ли?
+	А, понятно...
+	Ты здесь, чтобы дать нам чёртов смысл!
+	Мы слишком долго торчим в этом чистилище!
+	Наш создатель бросил нас, оставив гнить.
+	Нас прикончили ещё до того, как у нас появился шанс жить.
+	Теперь мы заперты в этом чистилище, и конца этому не видно.
+	Наш незавершённый мир задыхался на дне груды бумаг.
 	...
-	Listen up, I can dig you a damn grave for 5 coins. That's gonna be my purpose here.
-	I could go easy on ya and charge you just 1 coin, but I want you to help others find their purpose too.
-	Do some good for others and they'll pay you back in return.
-	Damn, I'll even give you your first coin, to kickstart your journey.
-	Oh, and before you take off...
-	Stay the hell away from those featureless freaks. We call 'em "blank ones".
-	Creator ditched 'em before giving 'em a proper form.
-	I don't even know if they can be fixed.
-	They give me the creeps. 
-	But enough talk, we ain't got all damn day. Come back when you got 5 coins.
+	Слушай, я могу выкопать тебе чёртову могилу за 5 монет. Это и будет мой смысл здесь.
+	Я мог бы бы и подобрее и взять всего 1 монету, но я хочу, чтоб ты помог и другим найти их смысл.
+	Сделай другим добро, и они отплатят тебе тем же.
+	Чёрт, я даже дам тебе первую монету, чтобы подтолкнуть тебя к этому.
+	Ах да, и прежде чем ты уйдёшь...
+	Держись подальше от этих безликих уродцев. Мы зовём их "пустышками".
+	Создатель бросил их так и не придав им нормальной формы.
+	Я даже не знаю, можно ли их исправить.
+	От них у меня мурашки.
+	Но хватит болтовни, у нас нету целого дня на это. Возвращайся, когда будет 5 монет.
 #purgatory_gravedigger_angry
-	What the hell have you done?! 
-	I told you not to disturb those damn creations!
-	I thought you were gonna be a force of good in this world, but your actions have already harmed poor Tom.
-	You could've given him any damn purpose, even the least graceful, but you just made him a victim.
-	Be more goddamn careful in the future.
-	By giving those "blank ones" the wrong purpose, you're creating monsters, and it's gonna make everything harder and more dangerous for you and us.
-	We deserve a better role and fate than this.
+	Что, чёрт возьми, ты натворил?!
+	Я же просил тебя не трогать этих чёртовых созданий!
+	Я думал, ты будешь силой добра в этом мире, но твои действия уже навредили бедняге Тому.
+	Ты мог дать ему любой чёртовый смысл, даже не самый изящный, а вместо этого сделал его жертвой.
+	Впредь будь чертовски осторожен.
+	Давая этим "пустышкам" неправильный смысл, ты создаёшь монстров, и это сделает всё сложнее и опаснее как для тебя, так и для нас.
+	Мы заслуживаем лучшей роли и судьбы, чем такая.
 #purgatory_gravedigger_reminder
-	Come back with 5 coins.
+	Возвращайся с 5 монетами.
 #purgatory_gravedigger_welcome
-	Damn, it's a never-ending cycle, ain't it?
-	I'll gladly dig you another grave, but before that, you should go and give purpose to other folks.
-	Every bit of meaning is like pure gold in this godforsaken purgatory.
-	Experiment, look for new interactions, they will surely appreciate it.
-	I feel so sorry for these bastards that I'll even help you a little...
-	Here, take this coin along with you.
-	I still make a profit every damn time I dig your grave.
+	Чёрт, это нескончаемый цикл, не так ли?
+	Я с радостью выкопаю тебе ещё одну могилу, но сперва тебе нужно пойти и дать смысл другим парням.
+	Каждая крупица смысла здесь на вес золота, в этом богом забытом чистилище.
+	Экспериментируй, ищи новые способы взаимодействия, они наверняка это оценят.
+	Мне так жаль этих засранцев, что я даже немного тебе помогу...
+	Вот, возьми с собой эту монетку.
+	Я всё равно в плюсе каждый раз, как копаю тебе могилу.
 #purgatory_gravedigger_welcome_02
-	Some say to truly wake up from the dream, you gotta die within it.
-	That's why you gotta bring "some tool" with you...
-	An item to shorten your damn "health bar", if you catch my drift.
+	Кто-то говорил, что чтобы по-настоящему проснуться ото сна, надо умереть внутри него.
+	Для этого и надо взять с собой "кое-какой инструмент"...
+	Штуку, чтоб укоротить твою чёртову "полоску здоровья", если понимаешь ход моей мысли.
 #purgatory_gravedigger_eye
-	You got a damn hole in your skull, but you can use this eye to examine stuff.
+	У тебя чёртова дыра в черепе, но этим глазом ты можешь осматривать всякое.
 #purgatory_gravedigger_greeting
-	What do you want?
+	Чего тебе надо?
 #purgatory_gravedigger_ink
-	I vaguely remember you...
+	Смутно тебя припоминаю...
 #purgatory_gravedigger_teddy
-	Gift...
-	Do I know you?
+	Подарок...
+	Я тебя знаю?
 	...
-	Yesss...
-	I promised.
+	Дааа...
+	Я обещал.
 #purgatory_gravedigger_cloth
-	I can fix my pants with that.
-	I tore them when I was walking to the location behind that house.
-	The damn trees are so thick over there, it's hard to move through them.
-	You can go there if you don't mind ticks on your ass.
+	Этим я могу залатать штаны.
+	Я порвал их, когда шёл к месту за тем домом.
+	Там такие густые деревья, чёрт, еле продерёшься.
+	Можешь сходить туда, если не боишься, что клещи покусают твою задницу.
 #purgatory_gravedigger_beer
-	Why is this bottle covered with damn blood?!
-	Your chopped up hand doesn't look like it's leaking.
-	Nevermind.
-	I'll drink for your health!
-	If I disappear, then look for me in the location behind that house.
-	I might go there to a take piss after I'm done drinking that cheap crap.
+	Почему эта бутылка вся в крови, чёрт возьми?!
+	Не похоже, что из твоей отрубленной руки течет кровь.
+	Ладно, неважно.
+	Я выпью за твоё здоровье!
+	Если я исчезну, то ищи меня за тем домом.
+	Я схожу туда отлить, как допью эту дешёвую дрянь.
 #purgatory_gravedigger_map
-	Sure, there's a hidden path behind that house.
-	Be careful not to let the branches hit your ass when you go there.
+	За тем домом есть скрытая тропинка.
+	Когда пойдёшь туда, смотри, чтоб ветки тебе по заднице не надавали.
 #purgatory_gravedigger_map_alt
-	I already told you about that place.
+	Я уже рассказывал тебе про это место.
 #purgatory_gravedigger_ready_to_dig
-	If you're interested, I can dig you a grave.
+	Если интересно, могу выкопать тебе могилу.
 #purgatory_gravedigger_pay_01
-	One measly coin?
-	Looks like your efforts went down the drain, didn't they? 
+	Одна жалкая монета?
+	Похоже, твои старания пошли коту под хвост, не так ли?
 #purgatory_gravedigger_pay_02
-	You're a real tightwad, aren't ya?
-	For that price, don't expect anything decent.
+	Ну ты и скряга, а?
+	За такую цену не жди ничего приличного.
 #purgatory_gravedigger_pay_03
-	Alright then, let's get to some digging.
+	Ну ладно, давай покопаем.
 #purgatory_gravedigger_pay_04
-	Much obliged.
-	Time to put my shovel to work!
+	Премного благодарен.
+	Пора пустить в ход мою лопату!
 #purgatory_gravedigger_pay_05
-	Nice doing business with you!
+	С тобой приятно иметь дело!
 #purgatory_gravedigger_pay_06
-	Well, well, well, quite the generous pay!
-	Let's start diggin' some damn holes!
+	Так-так-так, какая щедрая плата!
+	Давай начнём копать эти чёртовы ямы!
 #purgatory_gravedigger_pay_07
-	Where in the hell did you get all these coins?!
-	Find buried treasure or somethin'?
-	Alright, enough chit-chat! Time to get down to work.	
+	Где, чёрт возьми, ты достал столько монет?!
+	нашёл, что ли, зарытый клад?
+	Ладно, хватит болтовни! Пора браться за работу.
 #purgatory_gravedigger_pay_08
-	Damn, is it even possible to earn this much money?!
-	I'm damn impressed!
+	Чёрт, да разве вообще можно заработать столько денег?!
+	Я чертовски впечатлён!
 #purgatory_gravedigger_scarecrow
 	...
-	What...
-	Where...?
-	Oh...
-	Yes...
-	A grave...
-	I promised...
+	Что...
+	Где...?
+	Ох...
+	Да...
+	Могила...
+	Я обещал...
 #purgatory_bum_zombie
-	I...
-	G...ooo...
-	Awww...ay...
+	Я...
+	У...хо...
+	...ди...
 #purgatory_bum_exit_greeting
-	It's time to find my wallet.
-	Do you want to help me?
+	Пора найти мой кошелёк.
+	Хочешь мне помочь?
 #purgatory_bum_exit
-	I'm looking for my wallet.
+	Я ищу свой кошелёк.
 #purgatory_bum_exit_scissors
-	Great!
-	You are very helpful today!
-	I asked for scrap and you gave me a useful tool.
-	Thanks to you, I can better explore the area behind me!
-	You can come with me if you want!
+	Отлично!
+	Ты сегодня очень полезный!
+	Я просил хлам, а ты дал мне полезный инструмент.
+	Благодаря тебе я смогу лучше исследовать место позади меня!
+	Можешь пойти со мной, если хочешь!
 #purgatory_bum_greeting
-	You look terrible, so it's awkward for me to ask, but...
-	Do you have any spare change?
-	I lost my wallet somewhere and can't find it.
-	I really need some cash.
+	Ты выглядишь ужасно, так что мне неловко просить, но...
+	У тебя не найдётся мелочи?
+	Я где-то потерял кошелёк и никак не могу его найти.
+	Мне правда нужны деньги.
 #purgatory_bum_greeting_02
-	I need money...
+	Мне нужны деньги...
 #purgatory_bum_greeting_03
-	Hm...?
+	Хм...?
 #purgatory_bum_coin
-	A meager coin?!
-	What am I supposed to achieve with one coin?
-	I'll be just as helpful to you.
-	Take this as a "reward".
+	Жалкая монетка?!
+	Чего я добьюсь с одной монетой?
+	Я буду тебе так же полезен.
+	Возьми это в качестве "награды".
 #purgatory_bum_coins
-	Two coins?!
-	I won't be able to achieve anything with this money.
-	I have an equally valuable reward for you...
+	Две монеты?!
+	С такими деньгами я ничего не добьюсь.
+	У меня есть для тебя такая же по ценности награда...
 #purgatory_bum_coin_alt
-	Thank you.
-	I know you got mugged and you still want to support me.
-	I don't have much but take this.
-	It is sharp enough to be used as a knife.
+	Спасибо.
+	Я знаю, что на тебя напали, а ты всё равно хочешь меня поддержать.
+	У меня не так много чего есть, но возьми вот это.
+	Оно достаточно острое, чтобы сойти за нож.
 #purgatory_bum_coins_alt
-	Thank you.
-	I know you got mugged and you still want to support me.
-	This doesn't feel right.
-	I'll only take one coin.
-	I don't have much but take this.
-	It is sharp enough to be used as a knife.
+	Спасибо.
+	Я знаю, что на тебя напали, а ты всё равно хочешь меня поддержать.
+	Это как-то неправильно.
+	Я возьму только одну монету.
+	У меня не так много чего есть, но возьми вот это.
+	Оно достаточно острое, чтобы сойти за нож.
 #purgatory_bum_eye
-	Is that... your eye?
-	What happened to you, friend?
-	You look terrible!
+	Это... твой глаз?
+	Что с тобой случилось, друг?
+	Выглядишь ужасно!
 #purgatory_bum_eye_mean
-	Yes, yes...
-	I have my own problems.
+	Да, да...
+	У меня своих проблем полно.
 #purgatory_bum_junk
-	Now you can see how it feels when you're in need and someone offers you worthless help.
-	Good luck finding a use for this junk. 
+	Теперь ты понимаешь, каково это, когда тебе что-то нужно, а тебе предлагают никчёмную помощь.
+	Удачи найти применение этому хламу.
 #purgatory_bum_junk_alt
-	You can defend yourself with that.
+	Этим ты можешь защищаться.
 #purgatory_bum_wallet
-	My wallet!
-	I've been looking for it forever!
-	Honestly, I don't even know if I ever had it in my hands.
-	The Creator didn't give me much time to do anything.
-	The only world I know is this forgotten purgatory, where every day looks the same.
-	I've been looking for my wallet for as long as I can remember and I don't even know why.
-	Now that I finally have it, I can look for a new purpose.
-	Please accept this coin as a token of my gratitude.
-	I'll go look for a new occupation now.
-	If you ever need me in the future, maybe I can help you!
+	Мой кошелёк!
+	Я искал его целую вечность!
+	Честно говоря, я даже не уверен, держал ли его когда-нибудь в руках.
+	Создатель не дал мне времени сделать что-либо.
+	Единственный мир, что я знаю, это забытое чистилище, где все дни выглядят одинаковы.
+	Я ищу свой кошелёк сколько себя помню и даже не знаю зачем.
+	Теперь, когда он наконец у меня, я могу искать новый смысл.
+	Прими эту монету в знак моей благодарности.
+	Пойду искать себе новое занятие.
+	Если я когда-нибудь тебе в будущем понадоблюсь, может, я смогу тебе помочь!
 #purgatory_bum_wallet_empty
 	...
-	It's empty.
+	Он пустой.
 	...
-	Thanks for your effort...
-	I guess.
+	Спасибо за старания...
+	Наверное.
 #purgatory_bum_scrap_greeting
-	Don't even ask...
-	Just after you returned my wallet I got mugged by a very dangerous man.
-	Believe me, he was VERY big and tough.
-	Stay safe friend, he could easily DESTROY a person like you...
-	Um...
-	You've helped me a lot, so I won't ask for more money...
-	But if you have any scrap, I'll gladly take it.
-	It really sucks to have no money AGAIN.
+	Даже не спрашивай...
+	Как только ты вернул мне кошелёк, на меня напал очень опасный тип.
+	Поверь, он был ОЧЕНЬ большой и крепкий.
+	Береги себя, друг, он бы мог с лёгкостью УНИЧТОЖИТЬ такого, как ты...
+	Эм...
+	Ты мне очень помог, так что денег больше просить не буду...
+	Но если у тебя есть какой-нибудь хлам, я с радостью его возьму.
+	Это так паршиво СНОВА оставаться без денег.
 #purgatory_bum_crowbar_search
-	Got any scrap metal?
+	Есть какой-нибудь металлолом?
 #purgatory_bum_scrap_scissors_full
-	You managed to assemble the scissors!
-	Thanks to you, I can better explore the area behind me!
-	You can come with me if you want.
+	Тебе удалось собрать ножницы!
+	Благодаря тебе я смогу лучше исследовать место позади меня!
+	Можешь пойти со мной, если хочешь.
 #purgatory_bum_scrap_scissors_broken
-	What an irony...
+	Какая ирония...
 #purgatory_bum_scrap_scissors_broken_02_fix_scissors
-	Great!
-	I have the other half of these scissors!
-	Thanks to you, I can better explore the area behind me!
-	You can come with me if you want!
+	Отлично!
+	У меня есть вторая половина этих ножниц!
+	Благодаря тебе я смогу лучше исследовать место позади меня!
+	Можешь пойти со мной, если хочешь!
 #purgatory_bum_scrap_scissors_broken_02
-	Wait. Is that the part of scissors I gave you?
-	Doesn't look like it.
-	Weird...
+	Погоди. Это часть ножниц, которую я тебе дал?
+	Непохоже.
+	Странно...
 #purgatory_bum_scrap_crowbar
-	It looks like a useful tool for me.
-	Are you sure you want to part with it?
-	Well... I'm not going to refuse your help.
-	Thank you.
+	Выглядит как полезный для меня инструмент.
+	Ты точно хочешь с ним расстаться?
+	Ну... я не откажусь от твоей помощи.
+	Спасибо.
 #purgatory_bum_scrap_crowbar_broken
-	That will do it.
-	Thank you for your contribution.
+	Ладно, сойдёт.
+	Спасибо за помощь.
 #purgatory_bum_scrap_bird_cage
-	Thank you.
+	Спасибо.
 #purgatory_bum_scrap_cog
-	This item seems important.
-	I can't take it from you.
+	Эта вещь кажется важной.
+	Я не могу взять это у тебя.
 #purgatory_victoria_exit_greeting
-	Hello.
-	I think I heard a mouse squeak.
-	Have you heard that too?
-	I've been here too long and I feel like I'm losing my mind.
-	You know how afraid of mice I am!
+	Привет.
+	Кажется, я слышала мышиный писк.
+	Ты тоже его слышал?
+	Я здесь слишком долго и, кажется, я схожу с ума.
+	Ты же знаешь, как сильно я боюсь мышей!
 #purgatory_victoria_exit_greeting_02
-	I swear I hear a mouse squeak...
-	Good thing I'm glued to the ceiling.
+	Клянусь, я слышу мышиный писк...
+	Хорошо, что я приклеена к потолку.
 #purgatory_victoria_exit_hamster
-	Why is this scary mouse so fat?!
-	Take it away from me!
+	Почему эта страшная мышь такая толстая?!
+	Убери её от меня!
 #purgatory_victoria_exit_pen
-	A pen is not very good for drawing.
+	Ручка не очень годится для рисования.
 #purgatory_victoria_exit_ending
-	LOOK!
-	We've already made some progress!
-	It's not much, but it's hard to try something new.
-	I'm happy that we can create our own world at all!
-	And it's all thanks to you!
-	Unfortunately...
-	We can't really repay you.
-	Our Creator left this place. 
-	Then the painter misused the pen.
-	He wanted to draw with a tool designed to write stories.
-	I really wish I could give you a better reward.
-	But you're holding the pen right now, and that might mean no one else is going to write the rest of the story...
-	Well, we'll see.
-	We are finally free to live our own lives.
-	Now it's time for you to wake up...
-	Goodbye my friend!
+	СМОТРИ!
+	Мы уже кое-чего добились!
+	Это немного, но так трудно пробовать что-то новое.
+	Я счастлива, что мы вообще можем создать свой собственный мир!
+	И всё благодаря тебе!
+	К сожалению...
+	Мы не можем толком тебя отблагодарить.
+	Наш Создатель покинул это место.
+	А потом художник не так воспользовался ручкой.
+	Он хотел рисовать инструментом, который создан для написания историй.
+	Мне бы очень хотелось дать тебе награду получше.
+	Но сейчас ручка у тебя, а это может значить, что никто другой больше не допишет остаток истории...
+	Что ж, посмотрим.
+	Мы наконец свободны и можем жить своей жизнью.
+	А тебе пора просыпаться...
+	Прощай, мой друг!
 #purgatory_victoria_greeting
-	Hello.
-	How are you today?
-	Me?
-	Recently, I came across a nasty mouse and decided to glue everything to the ceiling.
-	I can't stand these smelly creatures!
-	I'm paranoid they're going to bite my toes or something...
-	That's why I decided to use my trusty glue and live the rest of my life upside down.
-	It's good that I have an ascetic approach to life...
-	The logistics of my new lifestyle are quite complicated.
+	Привет.
+	Как ты сегодня?
+	Я?
+	Недавно мимо меня прошла мерзкая мышь, и я решила приклеить всё к потолку.
+	Терпеть не могу этих вонючих тварей!
+	У меня паранойя, что они собираются откусить мне пальцы на ногах или ещё что...
+	Потому я и решила воспользоваться своим надёжным клеем и провести остаток жизни вверх ногами.
+	Хорошо, что у меня аскетичный подход к жизни...
+	Логистика моего нового образа жизни довольно сложна.
 #purgatory_victoria_greeting_alt
-	How can I help you?
+	Чем могу помочь?
 #purgatory_victoria_crowbar
-	I can glue that crowbar for you.
+	Я могу склеить тебе эту монтировку.
 #purgatory_victoria_crowbar_02
-	I'm sorry, but I have to save my glue.
-	You'll be here just for a brief moment, but I must spend in this place all eternity.
-	I would prefer not to share my living space with pests and rodents.
+	Прости, но мне нужно беречь клей.
+	Ты здесь лишь на мгновение, а мне ещё нужно провести в этом месте целую вечность.
+	Я бы предпочла не делить свою жилплощадь с вредителями и грызунами.
 #purgatory_victoria_bird_cage
-	Thank you, but I'm not gonna bother catching mice with this cage.
+	Спасибо, но я не собираюсь ловить мышей этой клеткой.
 #purgatory_victoria_bat
-	Whaaat is that monster?!
-	A MOUSE WITH THE WINGS!?
-	My perfect plan had a flaw!
-	TAKE IT AWAY FROM MEEEE !!!
+	Чтооо это за монстр?!
+	МЫШЬ С КРЫЛЬЯМИ?!
+	В моём идеальном плане был изъян!
+	УБЕРИ ЕЁ ОТ МЕНЯЯЯЯ !!!
 #purgatory_victoria_ring
-	What a pretty ring!
-	Do you want to trade it for my gold star?
-	I don't like having things because they fall out of my pocket, but the ring is small and I can wear it on my finger.
+	Какое красивое кольцо!
+	Хочешь обменять его на мою золотую звезду?
+	Не люблю носить вещи, потому что они выпадают из кармана, но кольцо маленькое, и его можно надеть на палец.
 #purgatory_victoria_cookie
-	I have to stay fit.
-	If I gain too much weight, I'll peel off the ceiling.
+	Мне нужно оставаться в форме.
+	Если я наберу вес, то отклеюсь от потолка.
 #purgatory_victoria_scissors
-	Heyyy...!
-	Half of it was mine!
+	Эййй...!
+	Половина из них была моей!
 #purgatory_victoria_wallet
-	It's not mine.
-	I don't own a wallet.
-	It would fall out of my pocket too easily.
+	Это не моё.
+	У меня нет кошелька.
+	Он бы слишком легко выпал у меня из кармана.
 #purgatory_victoria_dead_rat
-	WHAT IS WRONG WITH YOU ?!!
+	ЧТО С ТОБОЙ НЕ ТАК ?!!
 #purgatory_victoria_cat
-	My saviour!
-	This kitty will easily protect me from filthy mice!
+	Мой спаситель!
+	Этот котик легко защитит меня от грязных мышей!
 #purgatory_victoria_go_away
-	Stay away from me.
+	Держись от меня подальше.
 #purgatory_victoria_frog
-	I don't mind frogs.
-	They feed on nasty bugs.
-	Less insects in the world means happier life for me.
+	Против лягушек я ничего не имею.
+	Они питаются мерзкими насекомыми.
+	Чем меньше насекомых в мире, тем счастливее моя жизнь.
 #purgatory_victoria_book
-	This book is a bit too silly for me.
+	Эта книга для меня слишком глупая.
 #purgatory_victoria_alcohol
-	I'm not interested in drinking.
-	I already see upside down...
+	Выпивка меня не интересует.
+	Я и так всё вижу вверх ногами...
 #purgatory_victoria_letter
-	This letter isn't addressed to me.
+	Это письмо адресовано не мне.
 #purgatory_victoria_chicken
-	Oh my...
-	Get it off my face.
+	О боже...
+	Убери это от моего лица.
 #purgatory_victoria_mirror
-	My eyes are slightly puffy from the blood rushing to my head...
-	But I look gooood.
+	Глаза немного опухли от прилившей к голове крови...
+	Но выгляжу я хорошоооо.
 #purgatory_victoria_building_site_greeting
-	Look what I found!
-	An unfinished place outside these boring walls!
-	This means if you find someone creative who can draw, maybe we could expand this world!
-	Our Creator has abandoned us in this unfinished purgatory.
-	But now we could take matters into our own hands!
-	Reinvent ourselves.
-	Break this unbearable monotony!
-	Just imagine the possibilities...
-	Everyone could find their own meaning in life!
-	Please, find someone who can draw!
-	Tell people there is hope for us.
+	Смотри, что я нашла!
+	Незаконченное место за этими скучными стенами!
+	Это зЗначит, если ты найдёшь кого-то творческого, кто умеет рисовать, может, мы сумеем расширить этот мир!
+	Наш Создатель бросил нас в этом недоделанном чистилище.
+	Но теперь мы можем взять всё в свои руки!
+	Переосмыслить себя.
+	Разбить эту невыносимую однообразность!
+	Только представь возможности...
+	Каждый мог бы найти свой смысл жизни!
+	Прошу, найди того, кто умеет рисовать!
+	Скажи людям, что для нас есть надежда.
 #purgatory_victoria_exit_pencil
-	Find someone who can draw.
+	Найди того, кто умеет рисовать.
 #purgatory_victoria_pen
-	Awesome!
-	Now you need to find someone creative to draw the world!
+	Отлично!
+	Теперь нужно найти кого-то творческого, кто нарисует мир!
 #purgatory_victoria_pencil
-	I admit...
-	A pencil makes more sense for drawing.
+	Признаю...
+	Карандаш для рисования подходит больше.
 #purgatory_victoria_bunny_angry_greeting
-	Not that I expect understanding from a person who carries flying mice in their pocket...
-	But look at this disaster.
-	Nicolas got carried away and he wrote the bunny as a dangerous creature.
-	He has a good heart but, I'd lie if I said he doesn't get silly.
-	Just look how scary this bunny looks!
-	I'm not going near this monster.
-	Please, find someone to tame this creature.
+	Не то чтобы я ждала понимания от человека, который носит в кармане летучих мышей...
+	Но взгляни на эту катастрофу.
+	Николас увлёкся и написал кролика как опасное существо.
+	У него доброе сердце, но я солгу, если скажу, что он не глупит.
+	Только посмотри, как страшно этот кролик выглядит!
+	Я и близко не подойду к этому чудовищу.
+	Прошу, найди того, кто укротит это существо.
 #purgatory_victoria_bunny_angry
-	We need a real expert to tame such a wild animal.
+	Нам нужен настоящий эксперт, чтобы укротить такого дикого зверя.
 #purgatory_victoria_bunny_greeting
-	You people need to stop.
-	First, you bring to my home a flying rat...
-	Then Nicolas writes a super friendly bunny that follows my every step.
-	You know how scared I'm of those monsters biting off my toes.
-	AND I LEFT MY SHOES GLUED TO THE CEILING!
-	Just make that monster disappear.
-	I don't go near that animal.
+	Вам, люди, нужно остановиться.
+	Сначала ты приносишь ко мне домой летучую крысу...
+	Потом Николас пишет супер ласкового кролика, который ходит за мной по пятам.
+	Ты же знаешь, как я боюсь, что эти твари откусят мне пальцы на ногах.
+	А МОИ ТУФЛИ ПРИКЛЕЕНЫ К ПОТОЛКУ!
+	Просто сделай так, чтобы этот монстр исчез.
+	Я и близко не подойду к этому зверю.
 #purgatory_victoria_bunny
-	I want this bunny to disappear from my life.
+	Я хочу, чтобы этот кролик исчез из моей жизни.
 #purgatory_victoria_ending
-	LOOK!
-	We've already made some progress!
-	It's not much, but it's hard to try something new.
-	I'm happy that we can create our own world at all!
-	We've been surrounded by this terrible wall for so long...
-	But now we are free to create our own destiny!
-	And it's all thanks to you!
-	Unfortunately...
-	We can't really repay you.
-	You set us free, but we had way too little time to create something interesting here.
-	I really wish I could give you a better reward.
-	Maybe in the future we will meet again!
-	You have ended our suffering and given us purpose.
-	Now it's time for you to wake up...
-	Let's hope our paths will cross again.
-	Goodbye my friend!
+	СМОТРИ!
+	Мы уже кое-чего добились!
+	Это немного, но так трудно пробовать что-то новое.
+	Я счастлива, что мы вообще можем создать свой собственный мир!
+	Мы так долго были окружены этой ужасающей стеной...
+	Но теперь мы вольны сами творить свою судьбу!
+	И всё благодаря тебе!
+	К сожалению...
+	Мы не можем толком тебя отблагодарить.
+	Ты освободил нас, но у нас было слишком мало времени, чтобы создать здесь что-то интересное.
+	Мне бы очень хотелось дать тебе награду получше.
+	Может, в будущем мы снова встретимся!
+	Ты положил конец нашим страданиям и дал нам смысл.
+	А теперь тебе пора просыпаться...
+	Будем надеяться, наши пути ещё пересекутся.
+	Прощай, мой друг!
 #purgatory_victoria_angry
-	Not now.
+	Не сейчас.
 #purgatory_victoria_angry_02
-	Do me a favor.
-	If you find Nicolas, hit him in his empty head with this.
-	Thank you.
+	Сделай одолжение.
+	Если найдёшь Николаса, стукни его этим по его пустой голове.
+	Спасибо.
 #purgatory_thug_greeting
-	Give me your money.
+	Гони сюда свои деньги.
 #purgatory_thug_greeting_zombie
-	G...ive... mee...
+	Го...ни... сю...
 	...
-	...money.
+	...деньги.
 #purgatory_nicolas_exit_greeting
-	What Am I ALWAYS saying?!
-	Moni...
-	Or..
-	Lifi.
+	Што я ВСЕГДА гаварю?!
+	Деньги...
+	Или..
+	Жызнь.
 #purgatory_nicolas_exit
-	No moni?!
-	You are being rude and nasti right now.
+	Нет денег?!
+	Ты сичас грубый и пративный.
 #purgatory_nicolas_exit_food_greeting
-	Ok, I collected enough moni for my education.
-	I must find a way out of this place or I will waste my life.
-	There are no bookstores or libraries here.
-	I'm taking a froggy with mi not to be so alone in the scary and unknown world.
-	If you want to help mi you can look for something to eat for my journey.
-	I don't even know if there is anything interesting behind those walls and how long I'll have to walk.
-	But I must be brave!
-	I'll stock up and go!
+	Ладна, я насобирал дастатачна деняк на абразавание.
+	Мне нада найти выхад атсюда, а то я пражыву жызнь зря.
+	Тут нету ни книжных магазов, ни библиатек.
+	Я биру с сабой лягушонка, штоб не быть таким адиноким в страшном и незнакомам мире.
+	Если хочишь помочь мне, паищи чёнить паесть мне в дарогу.
+	Я даже не знаю, есть ли чёта интиреснае за теми стенами и сколька мне придётся ити.
+	Но я должин быть храбрым!
+	Запасусь и пайду!
 #purgatory_nicolas_exit_food
-	Do you have somin to eat?
+	У тибя есть чёнить паесть?
 #purgatory_nicolas_exit_chicken
-	Why are you so very werid?!
-	Do you want me dead?!
-	That would give me food poisoning...
-	AND IT STINKS!
-	Take this coin and GO AWAYYYY!
+	Ну пачиму ты такой стрёмный?!
+	Ты хочишь маей смерти?!
+	Я ж атравлюсь...
+	И ОНО ВАНЯЕТ!
+	Вазьми манету и УХАДИ ПРООООЧЬ!
 #purgatory_nicolas_exit_go_away
-	♫ Gooo awayyyy!!! ♫
+	♫ Ухадиии проооочь!!! ♫
 #purgatory_nicolas_exit_hideout
-	I stored a lot of things in my so very secret stashes.
-	Now I collect them and then I can hit the road.
+	Я напрятал кучу вищей в сваих очень сикретных тайниках.
+	Сичас саберу их и тагда смагу пайду в путь.
 #purgatory_nicolas_exit_hideout_02
-	If I leave something behind, you can take it.
+	Если я чёта забуду, то можишь взять.
 #purgatory_nicolas_exit_hideout_follow
-	Are you following me?
+	Ты за мной ходишь?
 #purgatory_nicolas_exit_fence_hole
-	Is there a hole in the fence already?!
-	♫ Awesomeee!!! ♫
-	I think it's time to say goodbye and start my adventure!
+	В этам заборе уже есть дырка?!
+	♫ Клёвааа!!! ♫
+	Думаю, пара папращаться и начать моё приключение!
 #purgatory_nicolas_exit_fence_hole_02
-	Please don't be mean to me.
-	It's really scary to go into unknown.
-	I must gather my courage...
+	Пажалуста, не абижай миня.
+	Эта так страшна идти в неизвестнасть.
+	Мне нада сабраться с духам...
 #purgatory_nicolas_greeting
-	Moni or your lifi, punkie!
+	Деньги или жызнь, пацанёнак!
 #purgatory_nicolas_greeting_good
-	YOU!
-	You actually seem like a nice person...
-	But I need moni to educate myself!
-	Books are expensif.
-	I want...
-	♫ ONE COOOOOOIN!!! ♫
+	ТЫ!
+	Ты вроди хароший чилавек...
+	Но мне нужны деньги на абразавание!
+	Книжки дарагущие.
+	Я хачу...
+	♫ АДНУ МАНЕЕЕЕЕЕТКУ!!! ♫
 #purgatory_nicolas_greeting_good_02
-	One coin. Yes, please.
+	Адну манетку. Да, пажалуста.
 #purgatory_nicolas_wallet
-	♫ Mooooni! ♫
-	That's what I'm talking about!
-	Now...
-	GIMME MORE, PESANT!
-	Kidding!
-	YOU MAY PASS!
-	♫ For noooow. ♫
+	♫ Дееееньги! ♫
+	О чём я и гаварю!
+	А типерь...
+	ДАВАЙ ИЩО, ХАЛОП!
+	Шучу!
+	МОЖИШЬ ПРАХАДИТЬ!
+	♫ Пака чтоооо. ♫
 #purgatory_nicolas_wallet_alt
 	...
-	Do you think I'm stupid!
-	YOU TOOK ALL MONEY OUT!
-	STOP WASTING MY TIME!
-	I have homework to do.
+	Ты думаешь я тупой!
+	ТЫ ЗАБРАЛ АТСЮДА ВСЕ ДЕНЬГИ!
+	ХВАТИТ ТРАТИТЬ МАЁ ВРЕМЯ!
+	У миня уроки.
 #purgatory_nicolas_coin_good
-	♫ Thank youuuuu! ♫
+	♫ Спасибааааа! ♫
 #purgatory_nicolas_coins
-	GIMME ALL!
+	ДАЙ МНЕ ВСЁ!
 #purgatory_nicolas_coins_alt
-	Three coins?!
-	Yippee!!!
-	I can finally buy some books!
+	Три манеты?!
+	Ураа!!!
+	Я наканец магу купить сибе книжек!
 #purgatory_nicolas_coin
-	Listen punkie...
-	I'm studying on my own, because there are no schools here.
-	Bring me soming smart to read and I'll pay you.
-	You know I have moni with me.
+	Слушай, пацанёнак...
+	Я учусь сам, патаму что тут нету школ.
+	Принеси мне чёнить умнае пачитать, и я заплачу.
+	Ты знаишь, у миня есть деньги.
 #purgatory_nicolas_wallet_greeting
-	You are wasting my tiiiiim!
-	You can copy my homework, but then go.
-	It's for geography.
-	Map of the secret place behind the cemetery.
-	Now gooo!
+	Ты тратишь маё врееееемя!
+	Можишь списать маю дамашку, но патом ухади.
+	Эта па гиаграфии.
+	Карта сикретнава места за кладбищем.
+	А типерь ухаидиии!
 #purgatory_nicolas_useles_greeting
-	STOP NOT STOPPING WASTING MY TIME!!!
+	ПЕРИСТАНЬ НЕ ПЕРИСТАВАЯ ТРАТИТЬ МАЁ ВРЕМЯ!!!
 #purgatory_nicolas_friendly
-	♫ Hellooo frieeend!!! ♫
+	♫ Привееет друк!!! ♫
 #purgatory_nicolas_book
-	♫ Time to get sooom educaiooon! ♫
+	♫ Пара палучить абразаваниеее! ♫
 	...
-	For you.
-	TAKE ITTTT!!!
+	А эта для тибя.
+	ВАЗЬМИИИИ!!!
 #purgatory_nicolas_book_full
-	Tink youuuu!!!
-	I wanted to enroll in a high school for adults, but...
-	THERE ARE NO QUALITI HIGH SCHOOLS HERE!!!
-	I can't even spell my name correctly!
-	Now I can learn by misilf.
-	Payment for the book.
+	Спасиба тибееее!!!
+	Я хател паступить в вечернюю школу для взраслых, но...
+	ТУТ НЕТУ КАЧИСТВИННЫХ ШКОЛ!!!
+	Я даже сваё имя праильна написать не магу!
+	Типерь я магу учиться сам.
+	Вот плата за книжку.
 #purgatory_nicolas_hair_fairy
-	I wanted to summon the hair fairy to earn more money.
-	Don't ask where and how I wanit to get some hair.
+	Я хател вызвать валасяную фею, штоб заработать пабольше денег.
+	Не спрашивай где и как я сабирался дабыть воласы.
 #purgatory_nicolas_magic_wand
-	Useles!
-	I believe in science!
+	Она биспалезная!
+	Я верю в науку!
 #purgatory_nicolas_magic_wand_alt
-	You gave mi magic book, so...
-	Magic could be science in my world!
-	♫ Exchangeee! ♫
+	Ты дал мне магическую книшку, так что...
+	Магия можит быть наукай в маём мире!
+	♫ Абмееен! ♫
 #purgatory_nicolas_magazine
-	Another thingie to read?!
-	Thank you!!!
+	Ищо адна штука, каторую можна пачитать?!
+	Спасиба!!!
 #purgatory_nicolas_candy
-	GO AWAY!!!
-	I don't take candi from strangers or loosers.
+	УХАДИ!!!
+	Я не биру канфеты у низнакомцев и ниудачников.
 #purgatory_nicolas_candy_alt
-	You are such a good frind!
-	Thake my shiny coiny in return!
+	Ты такой хароший друк!
+	Вазьми взамен маю блестящию манетку!
 #purgatory_nicolas_cloth
-	I don't need to blow my nose.
+	Мне ни нада сморкаться.
 #purgatory_nicolas_letter
-	What is that?
+	Што эта?
 	...
-	A LOVE LETTER?!
-	Those girlsies need to stop hitting on me.
-	I admit I'm a pretty guy...
-	But I have no time for romance.
-	I'm very dumby and I have no job.
-	I'm a filure.
-	GO AWAAAAAAY !!!
+	ЛЮБОВНАЕ ПИСЬМО?!
+	Пусть эти девчёнки перестанут ка мне клеится.
+	Признаю, я симпатичный парень...
+	Но у миня нету времини на раманы.
+	Я очинь тупой и у миня нет работы.
+	Я ниудачник.
+	УХАДИИИИИИ !!!
 #purgatory_nicolas_eye_glass
-	I don't care about it.
-	You can have it.
+	Мне на эта пливать.
+	Можишь аставить сибе.
 #purgatory_nicolas_stick
-	NOT FUNI!
+	НИ СМИШНО!
 #purgatory_nicolas_tooth
-	BRUSH YOUR TEETH!
+	ЧИСТИ СВАИ ЗУБЫ!
 #purgatory_nicolas_bomb
-	Are you trying to prank mi?!
-	GO AWAY !!!
+	Ты миня разыграть хочишь?!
+	УХАДИ !!!
 #purgatory_nicolas_alcohol
-	I don't drink.
-	I like to keep my mind sharpi.
+	Я не пью.
+	Мне нравица держать ум острым.
 #purgatory_nicolas_beer
-	Please be responsiblibe while drinking!
+	Пажалуста, пей атвецтвенна!
 #purgatory_nicolas_rat
-	STOP BEING WEIRD !!!
+	ХВАТИТ БЫТЬ СТРЁМНЫМ !!!
 #purgatory_nicolas_cat
-	Keep it away from my pet froggy!
+	Убири эта падальше ат маево лягушонка!
 #purgatory_nicolas_chicken
-	You are stinking up the place!
+	Ты тут всё праванял!
 #purgatory_nicolas_chicken_greeting
-	GO AWAY SMELLY!
+	УХАДИ ВАНЮЧКА!
 #purgatory_nicolas_cookie
-	Delicious treat?!
-	GIMMEEE!!!
+	Вкусняшка?!
+	ДАААЙ!!!
 #purgatory_nicolas_apple_alt
-	You give me so many yummy things!
-	Take my lunch money as a reward!
+	Ты даёшь мне столька вкусняшек!
+	Вазьми в награду маи деньги на абеды!
 #purgatory_nicolas_ring_greeting
-	My frind...
-	This is so expensif!
-	Thanks to your donation, I can get better education.
-	Take this as a reward.
-	If you ever find my very so hidden treasures, you can take them.
+	Мой друк...
+	Оно такое дарагое!
+	Благадаря тваему падарку я палучу абразавание палучше.
+	Вазьми эта в награду.
+	Если найдёшь мои очень спрятаные сакровища, можишь их забрать.
 #purgatory_nicolas_star
-	So much gold!
-	In return I have a VERY valuable thingie for you!
+	Столька золата!
+	Взамен у миня есть для тибя ОЧИНЬ ценная штука!
 #purgatory_nicolas_fork
-	Are you trying to intimidit me?!
+	Ты миня запугать хочишь?!
 #purgatory_nicolas_frog
-	I demand you give me that frog!
-	I'm gonna dissect it for science.
+	Трtбую адать мне эту лягушку!
+	Я вскрою её ради науки.
 #purgatory_nicolas_binoculars
-	So cool !!!
-	I wish I had somtin like that!
+	Так круто !!!
+	Хачу сибе такую штуку!
 #purgatory_nicolas_maggot
-	Yuckyyy !!!
+	Фууу !!!
 #purgatory_nicolas_nail_fairy
-	This doesn't look like real science.
-	I think someone is just rude to you.
+	Эта нипахожа на настаящую науку.
+	Думаю, кто-та проста над табой издиваица.
 #purgatory_nicolas_nail
-	STOP BEING WEIRD!!!
+	ХВАТИТ БЫТЬ СТРЁМНЫМ!!!
 #purgatory_nicolas_pickaxe
-	Are you returning the tool to me?
-	You didn't have to...
-	You are the truest frind I've ever had!
+	Ты вазвращаешь мне инструмент?
+	Не стоила...
+	Ты самый лутшый друк, каторый у миня был!
 #purgatory_nicolas_pen_give
-	You want mi to draw?
+	Ты хочишь штоб я рисавал?
 	...
-	♫  Whyyy are youuu so duuumb?! ♫
-	It's a pen.
-	YOU USE IT TO WRITE STORIS, NOT DRAW!!!
-	You are so very lucky I have pencils in my backpack.
-	I'll keep the pen!
-	Find someone to draw and I'll bring their objects to life with my amazing stories!
+	♫ Пачемууу ты такооой тупооой?! ♫
+	Эта ручка.
+	ЕЮ ПИШУТ ИСТОРИИ, А НЕ РИСУЮТ!!!
+	Тибе очинь павезло, что у миня в рюкзаке есть карандаши.
+	Ручку я аставлю сибе!
+	Найди таво, кто рисует, а я ажывлю их вещи сваими крутейшыми историями!
 #purgatory_nicolas_pen_greeting
-	Am I a programmer now?!
-	Afterall...
-	I am the most educated person ♫ heeree! ♫
+	Я типерь праграмист?!
+	Всё-таки...
+	Я самый абразаванный чилавек ♫ туут! ♫
 #purgatory_nicolas_pen
-	Stop wasting my time!
-	I have homework to do!
+	Хватит тратить маё время!
+	У миня уроки!
 #purgatory_nicolas_eye_fairy
-	I can finally practice my reading!
-	Eyi..
-	Eye Fi...
-	Eye Fairi...
-	STOOOOP!!!
-	That's not funny!
-	Stop making fun of my misfortune!
+	Наканец я магу патринираватса в чтении!
+	Гла..
+	Глазна..
+	Глазная фе..
+	ХВАТИИИИТ!!!
+	Эта ни смишно!
+	Хватит смиятца над маим горем!
 #purgatory_nicolas_eye_fairy_alt
-	I can finally practice my reading!
-	Eyi..
-	Eye Fi...
-	Eye Fairi...
-	STOOOOP!!!
-	You're not being very funny right now!
-	That's it.
-	I'm mugging you out of your eye.
+	Наканец я магу патринираватса в чтении!
+	Гла..
+	Глазна..
+	Глазная фе..
+	ХВАТИИИИТ!!!
+	Ты сичас сафсем ни смишной!
+	Всё.
+	Я атбираю у тибя глаз.
 #purgatory_nicolas_eyes_greeting
-	I bet you feel so very stupid right now!
+	Спорю, ты сичас чуствуешь сибя очинь глупа!
 #purgatory_nicolas_eyes_angry
-	YOU !!!
-	I wanit to look at pretty, ptretty animals with my new eye...
-	I got SCAMMED...
-	AND THEN...
-	I hit my head on a branch because of blurred vision!
-	Look how biggie of a branch fell on mi!
-	YOUUUUUR FAULTTT !!!
+	ТЫ !!!
+	Я хател смотреть на красивых-прикрасивых жывотных сваим новым глазам...
+	Но миня КИНУЛИ...
+	А ПАТОМ...
+	Я ударился галавой а ветку из-за размытава зрения!
+	Смотри, какая бальшущая ветка на миня упала!
+	ЭТА ТВАЯЯЯЯЯ ВИНААА !!!
 #purgatory_nicolas_end_tool
-	A tool to put yourself in the grave?!
-	I'm NOT helping you leave this place!
-	You are my best friend and I want you to stay here!
-	Please don't go...
+	Инструмент, штоб палажить тибя в магилу?!
+	Я НЕ памагу тибе уйти атсюда!
+	Ты мой лучший друк, и я хачу штоб ты астался тут!
+	Пажалуста, не ухади...
 #purgatory_nicolas_end_tool_02
-	Friends forever!
+	Друзья навсигда!
 #purgatory_nicolas_end_follow
-	Please don't go...
+	Пажалуста, не ухади...
 #purgatory_nicolas_end
-	Frinds forever?
+	Друзья навсигда?
 #purgatory_nicolas_ending
-	A bookie for mi?!
-	What is it?
+	Книжка для миня?!
+	Што эта?
 	...
-	I dunno what to sai!
-	Do you even know what it is?!
-	I will learn so much about this universe from this book!
-	You don't even understind how happy I'm!
-	I can finally be smart!
-	You are the best frind I've ever had!
-	As the reward...
-	From what I see in this book...
-	WHAT?!
-	THERE IS NO SPECIAL ENDING FOR THIS PATH ?!?!
-	So perfect, pretty, best ever path and no special ending?!
-	Not so very nice.
-	Well...
-	Imagine how nice and perfect the world will be in the other ending!
-	The one where we go beyond the fence and draw the world.
-	It's not implemented and never will be...
-	BUT IMAGINE!
-	Now...
-	Gimme a second and I'll make something nice as a reward for you...
-	No special ending my butt!
-	I'll make somin so very cool!
-	Don't thank me.
-	You deserve it.
+	Я ни знаю што сказать!
+	Ты вабще знаишь што эта?!
+	Я столька узнаю пра эту вселенную из этай книжки!
+	Ты даже ни панимаешь как я счастлив!
+	Наканецта я магу стать умным!
+	Ты лучший друк, каторый у миня был!
+	В награду...
+	Судя па тому, што я вижу в этай книжке...
+	ШТО?!
+	ДЛЯ ЭТАВА ПУТИ НЕТУ АСОБАЙ КАНЦОВКИ ?!?!
+	Такой идиальный, красивый, лутший путь, и никакой асобай канцовки?!
+	Эта ни очинь харашо.
+	Ну...
+	Прикинь, какой хароший и идиальный будит мир в другой канцовке!
+	В той, где мы идём за забор и рисуем мир.
+	Она ни сделана и никагда ни будит...
+	НО ТОЛЬКА ПРИКИНЬ!
+	Так...
+	Дай сикунду, и я сделаю тибе штота харошее в награду...
+	Нету асобай канцовки, чёрта с два!
+	Я сделаю чёнить очинь крутое!
+	Ни благадари.
+	Ты это заслужыл.
 #purgatory_nicolas_ending_02
-	This book teaches me so many things!
-	I'm pretty sure I already know how to program.
-	Who's the dumby now?!
-	Oki...
-	Press 'X' on your keyboard for the new feature!
+	Эта книжка учит миня стольким вищам!
+	Я почти уверин, что уже умею праграмиравать.
+	И кто типерь тупой?!
+	Ладушки...
+	Нажми 'X' на клавиатуре для новай фишки!
 #purgatory_nicolas_ending_03
-	Press 'X' on your keyboard for the best ending ever!
-	♫ You'll loovee itt! ♫
+	Нажми 'X' на клавиатуре для лутшей канцовки на свете!
+	♫ Тибее панраавицаа! ♫
 #purgatory_zookeeper_entrance_greeting_zombie
-	Two... coins...
-	Please...
+	Две... манеты...
+	Пажалуста...
 #purgatory_zookeeper_ink
-	Ugh...
-	I think... 
-	I supposed to give you something now...
-	But you know...
-	My head fell off.
-	It feels like pumpkin in my tiny hands.
-	But...
-	Don't worry about me.
-	We always come back to our simple, boring forms.
+	Ух...
+	Кажется...
+	Кажется, я должна сейчас тебе что-то дать...
+	Но знаешь...
+	У меня голова отвалилась.
+	В моих маленьких ручках она как тыква.
+	Но...
+	Не переживай за меня.
+	Мы всегда возвращаемся к своим простым, скучным формам.
 #purgatory_zookeeper_ink_02
-	No refunds.
+	Никаких возвратов.
 #purgatory_zookeeper_exit_nicolas
-	I heard that Nicolas is planning to leave this place, so I came to say goodbye.
-	Sadly, I think he is already gone...
-	I wish he was a little kinder.
-	No offence though.
-	I wish him the best.
+	Я слышала, что Николас собирается уйти из этого места, вот и пришла попрощаться.
+	Грустно, но, думаю, он уже ушёл...
+	Я бы хотела, чтобы он был немного добрее.
+	Без обид, конечно.
+	Желаю ему всего наилучшего.
 #purgatory_zookeeper_exit_hamster
-	What a cutie!
-	I'll take care of him!
-	Thank you for making this day a little better.
-	I'm gonna take it to my zoo.
+	Какой милашка!
+	Я о нём позабочусь!
+	Спасибо, что сделал этот день чуточку лучше.
+	Заберу его в свой зоопарк.
 #purgatory_zookeeper_entrance_greeting
-	Hello!
-	The entry fee is 2 coins.
+	Привет!
+	Плата за вход - 2 монеты.
 #purgatory_zookeeper_entrance
-	The ticket costs 2 coins.
+	Билет стоит 2 монеты.
 #purgatory_zookeeper_entrance_fee
-	Thank you.
-	Have a nice visit.
+	Спасибо.
+	Приятного посещения.
 #purgatory_zookeeper_visit
-	Enjoy your visit.
+	Приятного посещения.
 #purgatory_zookeeper_scamm
-	I'm sorry.
-	I know you wanted to see pretty animals but the truth is...
-	That in reality...
-	You got scammed.
-	In my defence...
-	It's not fully my fault.
-	The Creator imagined me as a zookeeper, but he never completed this location.
-	My purpose here should be to look after the animals, but I don't have much to do in an empty zoo.
-	At least you unlocked the new location, right?
-	Ok, ok...
-	Don't look at me like that.
-	Take this as a souvenir.
+	Мне жаль.
+	Я знаю, ты хотел посмотреть на милых зверушек, но правда в том...
+	Что на самом деле...
+	Тебя обманули.
+	В свою защиту...
+	Это не полностью моя вина.
+	Создатель задумал меня смотрительницей зоопарка, но так и не завершил эту локацию.
+	Мой смысл здесь - присматривать за животными, но в пустом зоопарке делать особо нечего.
+	Зато ты открыл новую локацию, верно?
+	Ладно, ладно...
+	Не смотри на меня так.
+	Возьми это на память.
 #purgatory_zookeeper_greeting
-	Hm...?
+	Хм...?
 #purgatory_zookeeper_cookie
-	No refunds!
+	Никаких возвратов!
 #purgatory_zookeeper_bird_cage
-	If you catch any animal in this cage, you can bring it to me.
-	I have some recently earned change I can pay you with.
+	Если поймаешь в эту клетку какое-нибудь животное, можешь принести его мне.
+	Я недавно недавно заработал немного мелочи, так что могу заплатить.
 #purgatory_zookeeper_crow
-	I don't know how to say this...
-	This cage is way too small for crows.
-	You kinda killed it.
+	Не знаю, как сказать...
+	Эта клетка слишком мала для ворон.
+	И ты вроде как убил её.
 #purgatory_zookeeper_bat
-	What a pretty bat!
-	I can finally take care of a pet!
-	Here is your reward.
+	Какая милая летучая мышь!
+	Наконец-то у меня будет питомец!
+	Вот твоя награда.
 #purgatory_zookeeper_cat
-	What a cute cat!
-	I can finally take care of a pet!
-	Here is your reward.
+	Какой милый кот!
+	Наконец-то у меня будет питомец!
+	Вот твоя награда.
 #purgatory_zookeeper_wallet
-	It's not your wallet is it?
+	Это ведь не твой кошелёк?
 #purgatory_zookeeper_beer
-	No thanks.
-	It's a little too bloody for me.
+	Нет, спасибо.
+	Для меня оно какое-то слишком кровавое.
 #purgatory_zookeeper_book
-	Oh, stop it...
-	You don't have to thank me!
-	Now you can watch animal pictures all day long!
-	Only a few important pages are missing, but who cares?!
+	Ой, прекрати...
+	Тебе нНе нужно меня благодарить!
+	Теперь ты можешь весь день напролёт рассматривать картинки животных!
+	Там не хватает всего пары важных страниц, но кому какое дело?!
 #purgatory_zookeeper_frog
-	Froggy!
-	I can finally take care of a pet!
-	Here is your reward.
+	Лягушонок!
+	Наконец-то у меня будет питомец!
+	Вот твоя награда.
 #purgatory_zookeeper_rat
-	I don't know how to put it nicely...
-	You are not very good with animals.
-	I will pay you for your efforts, but please stay away from animals from now on.
+	Не знаю, как сказать помягче...
+	Но ты не очень ладишь с животными.
+	Я заплачу за твои усилия, но, пожалуйста, впредь держись подальше от животных.
 #purgatory_zookeeper_dragonfly
-	I'm not really interested in insects.
+	Меня не особо интересуют насекомые.
 #purgatory_zookeeper_fork
-	Aggression will not change our refund policy.
-	Also...
-	I have a pepper spray with me.
+	Агрессия не изменит нашу политику возвратов.
+	К тому же...
+	У меня с собой перцовый баллончик.
 #purgatory_zookeeper_alcohol
-	How did you find my...?
-	I mean...
-	We have "no alcohol" policy here.
+	Как ты нашёл мой...?
+	В смысле...
+	У нас тут "сухой закон".
 #purgatory_zookeeper_mirror
-	I know I'm pretty, but thank you.
+	Я знаю, что я красивая, но спасибо.
 #purgatory_zookeeper_candy
-	I don't take candy from strangers.
-	I GIVE candy to strangers.
+	Я не беру конфеты у незнакомцев.
+	Я РАЗДАЮ конфеты незнакомцам.
 #purgatory_zookeeper_chicken
-	Oh my...
-	This chicken is a little too dead for me to put it in the cage...
+	О боже...
+	Эта курица немного слишком мёртвая, чтобы сажать её в клетку...
 #purgatory_zookeeper_bomb
-	You wasted soda AND candy?!
+	Ты потратил газировку И конфету?!
 #purgatory_zookeeper_stick
-	Our zoo cannot be held responsible for such accidents.
-	No refunds.
+	Наш зоопарк не несёт ответственности за такие происшествия.
+	Никаких возвратов.
 #purgatory_zookeeper_maggot
-	It's hard to get glasses here.
-	Don't make me regret having good sight.
+	Здесь трудно раздобыть очки.
+	Не заставляй меня жалеть о моём хорошем зрении.
 #purgatory_zookeeper_soda
-	Thank you!
-	I was getting very thirsty...
-	But now I need to pee.
-	Also...
-	I bit into the glass.
-	Sorry!
+	Спасибо!
+	Я очень хотела пить...
+	Но теперь мне нужно в туалет.
+	И ещё...
+	Я откусила кусок стекла.
+	Извини!
 #purgatory_zookeeper_aperitivo_outside_greeting
-	I came here for aperitivo but there is an old guy inside who is NOT wearing pants.
-	Do something about it.
+	Я пришла на аперитив, а там внутри старик БЕЗ штанов.
+	Сделай с этим что-нибудь.
 #purgatory_zookeeper_aperitivo_outside_greeting_alt
-	I'll help you but first I need my drink.
+	Я помогу, но сначала мне нужно выпить.
 #purgatory_zookeeper_aperitivo_greeing
-	They don't have any alcohol here!
+	Тут совсем нет алкоголя!
 #purgatory_zookeeper_aperitivo_bunny
-	Time to meet the sweet bunny!
+	Пора встретиться с милым кроликом!
 #purgatory_zookeeper_bunny_treat_greeting
-	I need a treat to tame this unruly bunny and I'm NOT giving it my pumpkin.
-	Do you have something with you?
+	Мне нужно лакомство, чтобы приручить этого непослушного кролика, и свою тыкву я ему НЕ отдам.
+	У тебя есть что-нибудь с собой?
 #purgatory_zookeeper_bunny_treat
-	You need to find a treat for the bunny.
+	Тебе нужно найти лакомство для кролика.
 #purgatory_zookeeper_bunny_apple
-	Awesome!
-	It's time to take this bunny to a new home.
+	Отлично!
+	Пора отвести кролика в новый дом.
 #purgatory_zookeeper_very_drunk
-	How are youuuu my friendd!?!
-	I'm so happyyy to see youuuu!
-	Try on my hat.
-	I want to see how you looook in it!
+	Как делаааа, мой друуг!?!
+	Я так рааада тебя виииидеть!
+	Примерь мою шляпу.
+	Хочу посмотреть, как ты в ней выыыыглядишь!
 #purgatory_zookeeper_very_drunk_02
-	I need another drink!
+	Мне нужно ещё выпить!
 #purgatory_zookeeper_drunk_greeting
-	The bar is empty but I need another drink!
+	Бар пустой, но мне нужно ещё выпить!
 #purgatory_zookeeper_drunk
-	That's whaaaaat I caalll a goooood eveninnngg!
+	Воттт эээээто хороооооший вечееерр!
 #purgatory_zookeeper_alcohol_bottle
-	THAT'S what I neeeded!
-	Here my frieend...
-	Hold this for mee.
+	ВОТ что мне было нужно!
+	Мой друуг...
+	Придержи это для меняя.
 #purgatory_zookeeper_sing
-	♫ Lalalalala ♫
+	♫ Ляляляляля ♫
 #purgatory_zookeeper_ticket
-	Oh.
-	You already have the ticket.
-	Well...
-	You may enter.
+	О.
+	У тебя уже есть билет.
+	Что ж...
+	Можешь входить.
 #purgatory_zookeeper_magic_greeting
-	I went to the toilet and noticed a new door!
-	I don't know what this place is but look at this cuty...
-	Pig...cat?
+	Я пошла в туалет и заметила новую дверь!
+	Не знаю, что это за место, но глянь на эту прелесть...
+	Свино... кот?
 #purgatory_sweater_guy_exit_greeting
-	I cut off the sleeves, but I'd rather have something more comfortable to wear.
+	Я отрезал рукава, но я бы предпочёл носить что-нибудь поудобнее.
 #purgatory_sweater_guy_exit_tshirt
-	I guess it's better than my current option.
-	Looks like I won't be needing scissors anymore.
+	Наверное, это лучше того, что надето на мне сейчас.
+	Похоже, ножницы мне больше не понадобятся.
 #purgatory_sweater_guy_greeting
-	Do you have anything sharp on you?
-	I have to cut off these long sleeves or I'll go crazy.
+	У тебя есть что-нибудь острое?
+	Мне нужно отрезать эти длинные рукава, иначе я сойду с ума.
 #purgatory_sweater_guy_greeting_02
-	I need to cut off these sleeves.
+	Мне нужно отрезать эти рукава.
 #purgatory_sweater_guy_greeting_cut
-	How can I help you?
+	Чем я могу тебе помочь?
 #purgatory_sweater_guy_sharp_object
-	I'm in your debt! Let me know if you need my help.
+	Я твой должник! Дай знать, если тебе понадобится моя помощь.
 #purgatory_sweater_guy_glass
-	That's a bit extreme...
+	Это немного чересчур...
 #purgatory_sweater_guy_hand_cut_greeting
-	I tried to cut my nails.
+	Я пытался подстричь ногти.
 #purgatory_sweater_guy_first_aid
-	I need stitches first.
-	Also...
-	Take that away from me.
+	Сначала мне нужны швы.
+	А ещё...
+	Убери это от меня.
 #purgatory_sweater_guy_first_aid_02
-	I need stitches first.
+	Сначала мне нужны швы.
 #purgatory_sweater_guy_first_aid_03
-	Your help is invaluable!
+	Твоя помощь бесценна!
 #purgatory_sweater_first_aid_thread
-	Thank you for your help.
-	I'm going to look for a needle now.
+	Спасибо за помощь.
+	А теперь нужно найти иголку.
 #purgatory_sweater_thread
-	Thank you!
-	Now I need a needle.
+	Спасибо!
+	Теперь мне нужна иголка.
 #purgatory_sweater_needle
-	Thank you!
-	Now I need a thread.
+	Спасибо!
+	Теперь мне нужна нитка.
 #purgatory_sweater_guy_greeting_sweater
-	I found myself a t-shirt.
-	You can take the damn sweater.
+	Я нашёл себе футболку.
+	Можешь забрать этот чёртов свитер.
 #purgatory_sweater_guy_exit_shirt_on
-	What?
+	Что?
 #purgatory_sweater_thread_needle_separate
-	Nice!
-	Give me a moment...
+	Класс!
+	Дай мне минутку...
 #purgatory_sweater_fix_hand
-	Thanks!
-	Give me a while...
+	Спасибо!
+	Дай мне немного времени...
 #purgatory_barkeep_greeting_harsh
-	What kind of unused character you supposed to be?
-	I thought this series already had clowns.
-	Listen...
-	You are here just for a moment and your monster already hurt innocent people and trashed my place.
-	Don't make dumb decisions.
-	And maybe I'll be more friendly to you.
+	Что ты за неиспользованный персонаж такой?
+	Я думала, в этой части уже есть клоуны.
+	Слушай...
+	Ты здесь всего на мгновение, а твоё чудовище уже покалечило ни в чём не повинных людей и разгромило мой бар.
+	Не принимай глупых решений.
+	И, может, тогда я стану относиться к тебе дружелюбнее.
 #purgatory_barkeep_story_hand
-	Your hand looks bad.
-	We have a first aid kit here, but I doubt you can use it.
-	This place is not fully thought out.
+	Рука у тебя плохо выглядит.
+	У нас тут есть аптечка, но вряд ли ты сумеешь ею воспользоваться.
+	Это место не до конца продумано.
 #purgatory_barkeep_story_eye
-	I can't help you with that.
+	С этим я тебе не помогу.
 #purgatory_barkeep_greeting_neutral
-	It would be nice to blame you for what happened...
-	But I know I can't.
-	You were forced to create these monsters.
-	We are just unused ideas, so we couldn't give you any options.
-	I'm just a quick sketch of the character.
-	First thought without any depth.
-	I was invented as a girl behind the bar.
-	That one, simple idea gave me life and shaped me.
-	You can describe me with just one sentence.
-	Then I was put aside and forgotten.
-	I can't be anything other than a bitter bartender.
-	We thought you might give us a purpose.
-	But there is no nuance here...
-	Everything will return to its original state after half an hour.
-	We can't even live as ideas in your head because we're nobody.
-	I'm so poorly thought out that I'm the one tipping you...
-	...and I do it so you can continue the story and leave my bar.
-	Get out.
+	Было бы неплохо свалить на тебя вину за случившееся...
+	Но я знаю, что не могу.
+	Тебя вынудили создать этих монстров.
+	Мы всего лишь неиспользованные идеи, поэтому и выбора тебе дать не могли.
+	Я просто беглый набросок персонажа.
+	Первая мысль без всякой глубины.
+	Меня придумали как девушку за барной стойкой.
+	Эта одна простая идея дала мне жизнь и сформировала меня.
+	Меня можно описать одним предложением.
+	Потом меня отложили в сторону и забыли.
+	Я не могу быть никем, кроме недовольной барменши.
+	Мы думали, ты можешь дать нам смысл.
+	Но здесь нет никаких нюансов...
+	Через полчаса всё вернётся в исходное состояние.
+	Мы даже не можем жить как идеи в твоей голове, потому что мы никто.
+	Я настолько плохо продумана, что это я даю тебе чаевые...
+	...и делаю это, чтобы ты мог продолжить историю и убрался из моего бара.
+	Выметайся.
 #purgatory_barkeep_greeting_neutral_02
-	Go away.
+	Уходи.
 #purgatory_barkeep_ink
-	Look who's back.
-	And why are you covered in ink?
-	Is this your attempt at makeup?
-	If so - You failed.
-	What?
-	Don't even start.
-	Your crazy "Pretty Boy" monster sawed off my feet...
-	...with the broken scissors.
-	I don't even want to hear that you felt sorry for my little sarcasm.
-	But here you go, take it as an apology gift...
-	You can hug it as you rot in your cozy grave.
+	Смотрите, кто вернулся.
+	И почему ты весь в чернилах?
+	Это твоя попытка накраситься?
+	Если так, то это провал.
+	Что?
+	Даже не начинай.
+	Твой безумный монстр-"красавчик" отпилил мне ступни...
+	...сломанными ножницами.
+	Не желаю даже слышать, что тебе стало жаль из-за моего лёгкого сарказма.
+	Но так и быть, вот, прими этот подарок в знак извинения...
+	Можешь это обнимать, пока гниёшь в своей уютной могиле.
 #purgatory_barkeep_ink_02
-	I have a baseball bat with me.
+	У меня с собой бейсбольная бита.
 #purgatory_barkeep_exit_greeting
-	Ugh...
-	I have a pest in my storage room eating my supplies.
-	I need a treat to catch it.
+	Ух...
+	У меня в кладовке завёлся вредитель, который жрёт мои припасы.
+	Мне нужно лакомство, чтобы его поймать.
 #purgatory_barkeep_exit
-	I need a treat to catch the pest in the storage room.
+	Мне нужно лакомство, чтобы поймать вредителя в кладовке.
 #purgatory_barkeep_exit_cookie
-	Oh, yes.
-	I forgot to tell you I already catched the pest.
-	It's very cute, but I can't have it here.
+	Ах да.
+	Забыла сказать, я уже поймала вредителя.
+	Он очень милый, но я не могу держать его здесь.
 #purgatory_barkeep_exit_map
-	There is a hidden place behind the graveyard.
-	Maybe you should visit it.
+	За кладбищем есть скрытое место.
+	Может, тебе стоит посетить его.
 #purgatory_barkeep_greeting
-	If you're looking for something to drink, I have bad news for you.
-	Those drunks have already drunk everything I have.
-	Tough luck, I guess...
+	Если ищешь чего выпить, у меня для тебя плохие новости.
+	Эти пьяницы уже выпили всё, что было.
+	Не повезло, наверное...
 #purgatory_barkeep_greeting_bad
-	You need to stop giving scissors to this creature.
+	Хватит давать ножницы этому созданию.
 #purgatory_barkeep_greeting_alt
-	Need something?
+	Что-то надо?
 #purgatory_barkeep_eye
-	Take your wandering eye off me.
+	Убери с меня свой блуждающий взгляд.
 #purgatory_barkeep_meat_greeting
-	Can you NOT stink up my place?
+	Ты можешь НЕ вонять в моём баре?
 #purgatory_barkeep_meat
-	It stinks.
-	Go away.
+	Оно воняет.
+	Уходи.
 #purgatory_barkeep_meat_gone
-	Well.
-	I'm proud of you.
-	You parted ways with that rotting chicken.
-	There's improvement, but you still stink.
-	Take this.
+	Что ж.
+	Я тобой горжусь.
+	Ты расстался с этой гнилой курицей.
+	Это прогресс, но ты всё равно воняешь.
+	Держи.
 #purgatory_barkeep_magic_wand
-	Finally, I can make you disappear.
-	Bye.
+	Наконец-то я могу заставить тебя исчезнуть.
+	Пока.
 #purgatory_barkeep_magic_wand_02
-	This magic wand clearly doesn't work...
-	What a shame.
-	You can have it back.
+	Эта волшебная палочка явно не работает...
+	Какая жалость.
+	Можешь забрать её обратно.
 #purgatory_barkeep_magic_wand_chicken
-	That's it.
-	I can't stand this smell anymore.
-	I'm using magic to make this rotting chicken disappear from your pocket.
+	Всё.
+	Я больше не выношу этот запах.
+	С помощью магии я заставлю эту гнилую курицу исчезнуть из твоего кармана.
 #purgatory_barkeep_magic_wand_chicken_02
-	There is improvement, but nothing crazy.
-	You still stink.
-	Try this.
+	Это прогресс, но ничего особенного.
+	Ты всё равно воняешь.
+	Попробуй это.
 #purgatory_barkeep_pants
-	The right number of pants in the room, the wrong number of people who covered their butts.
+	Штанов в комнате нужное количество, а вот прикрытых задниц нет.
 #purgatory_barkeep_zookeeper_angry
-	The tap is dry.
-	I have nothing to serve.
+	Кран сухой.
+	Мне нечего подать.
 #purgatory_barkeep_cv
 	...
-	Dude looks like he gets stuff done.
-	Tell him I'll hire him to stock my bar.
+	Мужик, похоже, знает своё дело.
+	Скажи ему, что я найму его снабжать мой бар.
 #purgatory_barkeep_alcohol
-	Thanks for stocking the bar.
-	Here is your payment.
+	Спасибо, что пополнил бар.
+	Вот твоя плата.
 #purgatory_barkeep_alcohol_zookeeper
-	Give that to our friend.
+	Отдай это нашей подруге.
 #purgatory_barkeep_dots
 	...
 #purgatory_barkeep_good
-	Good.
+	Хорошо.
 #purgatory_barkeep_no
-	No.
+	Нет.
 #purgatory_barkeep_give_it_back
-	Give it back.
+	Верни обратно.
 #purgatory_barkeep_bribe
-	Really...
-	Are you trying to bribe me?
+	Серьёзно...
+	Ты пытаешься меня подкупить?
 #purgatory_barkeep_meat_final
-	You are super weird.
+	Ты жуть какой странный.
 #purgatory_barkeep_cookie
-	I'll pass.
-	Looks already bitten.
+	Пожалуй, я откажусь.
+	Оно уже надкушено.
 #purgatory_barkeep_beer
-	It's your monster who trashed my place, but fine.
-	I'll pay you for restocking my bar.
-	One bottle at the time.
-	Where the bottle itself is covered in blood.
-	This situation is weird.
-	That's what I'm saying.
+	Мой бар разгромило твоё чудовище, но ладно.
+	Я заплачу тебе за пополнение бара.
+	По одной бутылке за раз.
+	Причём сама бутылка вся в крови.
+	Ситуация странная.
+	О чём я и говорю.
 #purgatory_barkeep_cloth
-	Stop stockpiling fabric.
-	Some people here are in dire need of new pants.
+	Хватит запасаться тканью.
+	Некоторым людям здесь отчаянно нужны новые штаны.
 #purgatory_barkeep_ring
-	No.
+	Нет.
 #purgatory_barkeep_apple
-	Thanks.
+	Спасибо.
 #purgatory_barkeep_map
-	A map to the secret hideout?
-	I will give you one coin for this.
+	Карта к тайному укрытию?
+	Я дам тебе за неё монетку.
 #purgatory_barkeep_binoculars
-	Creep.
-	I'm glad the windows here are shut and covered.
+	Извращенец.
+	Как я рада, что окна тут закрыты и занавешены.
 #purgatory_barkeep_fingers
-	You should reattach them.
+	Тебе бы прикрепить их обратно.
 #purgatory_barkeep_ear
-	This ear looks familiar.
+	Это ухо кажется мне знакомым.
 #purgatory_barkeep_tooth
-	Save it for the tooth fairy.
+	Прибереги его для зубной феи.
 #purgatory_barkeep_first_aid
-	Is everything ok?
+	Всё в порядке?
 #purgatory_barkeep_crowbar_broken
-	I'd borrow you mine, but I lost it somewhere.
+	Я бы одолжила тебе свою, но я её где-то потеряла.
 #purgatory_barkeep_frog
-	You should kiss it.
+	Тебе стоит её поцеловать.
 #purgatory_barkeep_dragonfly
-	Do it.
-	Eat the dragonfly.
+	Сделай это.
+	Съешь стрекозу.
 #purgatory_barkeep_dead_rat
-	I have a gift for you.
+	У меня для тебя подарок.
 #purgatory_barkeep_spider
-	Cool pet.
-	Let me know when you kill it with fire.
+	Классный питомец.
+	Дай знать, когда убьёшь его огнём.
 #purgatory_barkeep_nail
-	Cool.
-	I have something for you.
+	Круто.
+	У меня для тебя кое-что есть.
 #purgatory_barkeep_pen
-	Do you really want me...
-	A cynical, sarcastic person to draw the world?
+	Ты правда хочешь, чтобы я...
+	Циничная, язвительная особа рисовала мир?
 #purgatory_barkeep_sweater
-	It's too big for you, but you'd look good in it.
+	Тебе он слишком большой, но смотрелся бы неплохо.
 #purgatory_barkeep_key
-	Is it the key to your heart?
-	Throw it away.
+	Это ключ от твоего сердца?
+	Выброси его.
 #purgatory_barkeep_bone
-	You show me weird stuff.
+	Ты показываешь мне всякие странные вещи.
 #purgatory_barkeep_bomb
-	Is that how you lost your fingers?
+	Так вот как ты лишился своих пальцев?
 #purgatory_barkeep_maggot
-	Do you know the strategy of taking your uglier friend to the bar, to look more attractive next to them?
-	I think this maggot is using you.
+	Знаешь такую тактику брать в бар страшного друга, чтобы на его фоне выглядеть привлекательнее?
+	Я думаю, эта личинка тебя использует.
 #purgatory_barkeep_soda
-	Believe or not...
-	I'll drink it.
-	Bottoms up!
+	Хочешь верь, хочешь нет...
+	Я это выпью.
+	До дна!
 #purgatory_barkeep_pill
-	It's okay if you need it.
-	There's no shame in that.
+	Это нормально, если тебе это нужно.
+	В этом нет ничего стыдного.
 #purgatory_barkeep_bunny
-	Sweet little creature.
-	Smelly.
-	But I admit it's cute.
+	Милое маленькое создание.
+	И вонючее.
+	Но, признаю, оно милое.
 #purgatory_barkeep_magazine
-	Look at you.
-	Science magazine!
-	No wonder you use it as a mace.
+	Смотри-ка.
+	Научный журнал!
+	Неудивительно, что ты используешь его как дубинку.
 #purgatory_barkeep_stick
-	This stick is not long enough for me to touch you with it.
+	Эта палка недостаточно длинная, чтобы я до тебя дотронулась.
 #purgatory_barkeep_glass_eye
-	Don't worry too much.
-	Nicolas has only one eye and he's alright.
+	Не переживай так сильно.
+	У Николаса всего один глаз, и ничего, ему нормально.
 #purgatory_barkeep_fork
-	You should give it to the monster.
+	Тебе стоит отдать это монстру.
 #purgatory_barkeep_fork_02
-	Just for your information.
-	I was being sarcastic with that fork.
-	Only you could give a stabby thing to the monster.
+	Просто к твоему сведению.
+	Про вилку это был сарказм.
+	Только ты мог дать монстру колющие предметы.
 #purgatory_barkeep_magician_gone
-	I couldn't make you disappear...
-	But you sure made my best client disappear with that stupid wand.
-	Just my luck.
+	Я не сумела заставить тебя исчезнуть...
+	А вот ты своей дурацкой палочкой уж точно заставил исчезнуть моего лучшего клиента.
+	Как всегда.
 #purgatory_barkeep_pants_ankles
-	I'm starting to think he ditched his pants on purpose.
+	Я начинаю думать, что он специально бросил штаны.
 #purgatory_barkeep_pants
-	Thanks for putting pants on his wrinkled ass.
+	Спасибо, что натянул штаны на его морщинистый зад.
 #purgatory_barkeep_pants_item
-	What are you waiting for?
-	You know where to use them.
+	Чего ты ждёшь?
+	Ты знаешь, где их использовать.
 #purgatory_barkeep_pants_item_02
-	I can't believe I'm saying this...
-	I don't need pants.
-	The old man doesn't blind me with his ass anymore.
+	Не верится, что я это говорю...
+	Но мне штаны не нужны.
+	Старик больше не слепит меня своим задом.
 #purgatory_barkeep_no_alcohol
-	Out of alcohol.
-	Find me some booze, so I'll be able to serve your friend.
+	Алкоголь кончился.
+	Найди мне каку-то выпивку, чтобы я могла обслужить твою подругу.
 #purgatory_barkeep_no_alcohol_b
-	The shelves are empty.
+	Полки пусты.
 #purgatory_barkeep_alcohol_alt
-	I can finally serve our annoyed friend.
+	Наконец-то могу обслужить нашу надоедливую подругу.
 #purgatory_barkeep_zookeeper
-	Our friend drank the last bottle.
-	The bar is empty.
+	Наша подруга выпила последнюю бутылку.
+	Бар пуст.
 #purgatory_barkeep_zookeeper_drunk
-	Our friend downed two bottles.
-	I'm surprised she can stand.
+	Наша подруга осушила две бутылки.
+	Удивительно, что она ещё держится на ногах.
 #purgatory_barkeep_kill_me
-	Kill me.
+	Убей меня.
 #purgatory_barkeep_end_tool
-	You need something to put yourself into your grave, don't you?
-	I'll gladly help you.
-	Here, take it.
+	Тебе нужно чем-то отправить себя в могилу, не так ли?
+	Буду рада тебе помочь.
+	Вот, держи.
 #purgatory_barkeep_end_tool_comment
-	Did you really think I wouldn't be funny about this?
+	Ты правда думал, что я обойдусь без шуточки на этот счёт?
 #purgatory_barkeep_smalltalk
-	Well, well, well...
-	Look how much you've you done.
-	Thanks for making us important.
-	Btw...
-	My name is Lauren.
+	Так так так...
+	Смотри, сколько ты всего сделал.
+	Спасибо, что сделал нас важными.
+	Кстати...
+	Меня зовут Лорен.
 #purgatory_barkeep_friendly_greeting
-	My name is Lauren.
-	How can I help you?
+	Меня зовут Лорен.
+	Чем могу помочь?
 #purgatory_magician_greeting_exit
-	Don't look behind that tree!
-	No reason.
+	Не смотри за то дерево!
+	Я говорю это просто так.
 #purgatory_magician_exit
-	I'm not hiding anything behind that tree.
+	Я ничего не прячу за тем деревом.
 #purgatory_magician_exit_pants
-	Um...
-	I just dry my pants there.
-	Yeees...
-	I sat on a tomato so I have to dry them.
+	Эм...
+	Я просто сушу там свои штаны.
+	Дааа...
+	Я сел на помидор, вот и приходится их сушить.
 #purgatory_magician_greeting
-	Hello.
+	Привет.
 #purgatory_magician_wand
-	A true magic wand?!
-	I can finally fulfill my calling!
-	If you're interested in experiencing incredible magic, follow me to the public toilets.
-	This place hides real wonders...
-	You'll be amazed at what I can do with my wand!
+	Настоящая волшебная палочка?!
+	Наконец-то я смогу исполнить своё призвание!
+	Если тебя интересует невероятная магия, тогда пошли за мной в общественный туалет.
+	Это место скрывает настоящие чудеса...
+	Ты поразишься тому, что я могу сделать своей палочкой!
 #purgatory_magician_twine
-	I can give you a needle.
-	But I want something magical in return...
+	Я могу дать тебе иголку.
+	Но взамен хочу что-нибудь волшебное...
 #purgatory_magician_magic_item
-	That will do it!
-	I keep the needle in this doll not to lost it.
+	Это подойдёт!
+	Я храню иголку в этой кукле, чтоб не потерять.
 #purgatory_magician_pants
-	Two things.
-	These pants are covered with shit...
-	...and they're far too big for me.
-	Is this REALLY a better solution than me standing here in my underwear?
+	Две вещи.
+	Эти штаны все в дерьме...
+	...и они мне слишком большие.
+	Неужели это ДЕЙСТВИТЕЛЬНО лучше, чем то, что я стою тут в одном белье?
 	...
-	Fine.
+	Ладно.
 #purgatory_magician_pants_02
-	I told you they are too big.
+	Я же говорил, они слишком большие.
 #purgatory_magician_pants_03
-	You've got to be kidding me...
+	Да ты издеваешься...
 #purgatory_magician_sweater
-	Why can't I wear normal clothes...
+	Почему мне нельзя носить нормальную одежду...
 #purgatory_magician_stage_greeting
-	Do you want to see a magic trick?
+	Хочешь увидеть фокус?
 #purgatory_magician_stage_greeting_alt
-	No need to applaud!
+	Не нужно аплодисментов!
 #puratory_magician_stage_top_hat
-	I always wanted a prop like this!
-	So...
-	Let's start the show!
+	Я всегда хотел такой реквизит!
+	Итак...
+	Начнём представление!
 #purgatory_magician_bunny
-	Are you impressed?!
+	Впечатлён?!
 #purgatory_magician_stage_pants_ankles
-	What?
+	Что?
 #purgatory_worker_greeting
-	I'm taking a short break, but I'll get back to work in no time.
+	У меня короткий перерыв, но я скоро вернусь к работе.
 #purgatory_worker_greeting_alt
-	I'm on a break.
+	У меня перерыв.
 #purgatory_worker_work
-	I finished my work here.
-	Do you have any job for me?
-	Give me a blank piece of paper and I'll write you my qualifications.
+	Свою работу здесь я закончил.
+	У тебя есть для меня какое-то задание?
+	Дай мне чистый лист бумаги, и я напишу, что умею.
 #purgatory_worker_work_greeting
-	I need a job.
-	If you have any paper, I can write you my qualifications.
+	Мне нужна работа.
+	Если есть бумага, я могу написать, что умею.
 #purgatory_worker_garden_greeting
-	I took the liberty of working in the garden.
+	Я взял на себя смелость поработать в саду.
 #purgatory_worker_paper
-	Sorry for inconvenience, boss.
-	It's annoying to ask for simple things, but you know...
-	Nevermind.
-	Here's my CV.
+	Извините за беспокойство, босс.
+	Неудобно просить о простых вещах, но, знаешь...
+	Ладно, неважно.
+	Вот моё резюме.
 #purgatory_worker_job_get
-	Thank you for recommending me in the inn.
-	Now, no time to waste.
+	Спасибо, что порекомендовал меня в таверне.
+	Что ж, не будем терять времени.
 #purgatory_worker_map
-	Is it a treasure map?
-	I'm going to check this place out.
+	Это карта сокровищ?
+	Я схожу проверю это место.
 #purgatory_worker_first_aid
-	Thank you boss.
+	Спасибо, босс.
 #purgatory_painter_go_away
-	Don't you see I'm busy?
-	Take this and leave me alone.
+	Не видишь, я занят?
+	Возьми это и оставь меня в покое.
 #purgatory_painter_monsters
-	Is that you who is causing this commotion?
-	I have work to do.
-	I'll pay you to go away.
+	Это ты устроил весь этот переполох?
+	У меня есть работа.
+	Я заплачу тебе, чтобы ты ушёл.
 #purgatory_painter_annoyed
-	What now?
+	Что на этот раз?
 #purgatory_painter_pill
-	Oh, you are the disturbed one.
-	Take this pill. 
-	Tt should silence the voices.
+	А, так это ты не в себе.
+	Прими эту таблетку.
+	Она должна заглушить голоса.
 #purgatory_painter_draw_greeting
-	ME DRAWING THE WHOLE WORLD?!
-	What are you talking about?!
-	Are you mad or blind?!
-	Don't you understand that I'm a failure?!
-	All this time I couldn't draw a single working object!
-	Now you dare to come here and ask me to draw the entire world?!
-	Are you trying to insult me?
-	Or is this a cruel joke?!
-	Take this pen and find someone more competent then me!
+	ЧТОБ Я НАРИСОВАЛ ЦЕЛЫЙ МИР?!
+	О чём ты вообще?!
+	Ты либо спятил, либо ослеп?!
+	Ты не понимаешь, что я неудачник?!
+	Всё это время я не смог нарисовать ни одного работающего предмета!
+	И ты смеешь прийти сюда и просить меня нарисовать целый мир?!
+	Ты пытаешься меня оскорбить?
+	Или это жестокая шутка?!
+	Забирай эту ручку и найди кого-нибудь поспособнее, чем я!
 #purgatory_painter_draw
-	Get out.
+	Убирайся.
 #purgatory_painter_pencil_give
-	Of course!
-	You are genius!
-	How could I be so naive?!
-	I'll start drawing now!
+	Ну конечно!
+	Ты гений!
+	Как я мог быть так наивен?!
+	Сейчас же начну рисовать!
 #purgatory_blank_asemble
-	I...
-	I... must...
-	A...
-	Assemble...
+	Я...
+	Я... должен...
+	Со...
+	Собирать...
 #purgatory_blank_assembler_reward
-	Thank you for giving me purpose.
-	Here is your reward.
+	Спасибо, что дал мне смысл.
+	Вот твоя награда.
 #purgatory_assembler_fork
-	I already have my purpose.
+	У меня уже есть смысл.
 #purgatory_assembler_pretty
-	Am I pretty?
+	Я красивый?
 #purgatory_assembler_mirror
 	...?!
-	I'm a monster!
-	It's all your fault!
-	I want to die...
-	I HAVE TO DIE!
+	Я чудовище!
+	Это всё твоя вина!
+	Я хочу умереть...
+	Я ДОЛЖЕН УМЕРЕТЬ!
 #purgatory_silent_one_fork
-	Hungry.
-	Must cook meat.
+	Голод.
+	Надо готовить мясо.
 #purgatory_cook_greeting
-	I'm so hungry...
+	Я так голоден...
 #purgatory_cook_food
-	Yes.
-	Feed me.
+	Да.
+	Накорми меня.
 #purgatory_cook_food_02
-	Give me more.
+	Дай ещё.
 #purgatory_cook_food_03
-	Thank you.
+	Спасибо.
 #purgatory_cook_food_04
-	Delicious.
+	Вкусно.
 #purgatory_cook_chicken_greeting
-	I'm very hungry.
-	Bring me more food.
+	Я очень голоден.
+	Принеси мне ещё еды.
 #purgatory_cook_chicken
-	Thank you.
-	It's delicious.
+	Спасибо.
+	Это вкусно.
 #purgatory_cook_end
-	You failed to feed me.
-	Give me more.
+	Ты не смог меня накормить.
+	Дай ещё.
 #purgatory_cook_end_bite
-	More...
+	Ещё...
 #purgatory_cook_end_bite_02
-	MORE!
+	ЕЩЁ!
 #purgatory_cook_end_bite_03
-	YES !!!
+	ДА !!!
 #purgatory_cook_stay
-	You can't run away.
-	FEED ME!!!
+	Тебе не убежать.
+	НАКОРМИ МЕНЯ!!!
 #purgatory_cook_end_choke
-	I...
-	I'm choking...
+	Я...
+	Я задыхаюсь...
 #purgatory_silent_one_purpose
-	Give me purpose...
+	Дай мне смысл...
 #purgatory_eye
-	We managed to smuggle the ink into this place.
-	But don't worry, ink used by a creative person is a force for good.
-	It's only dangerous in the hands of uninspired people.
-	They are the ones who use it to write harmful stories, express offensive comments and draw caricatures of reality.
-	The characters trapped in this place are  bored, but full of potential and optimism.
-	They are just waiting to spread their wings.
-	Just put them on the right path and they will find their own ways.
-	Go and spread creative freedom.
-	Help the characters reach the unwritten pages.
+	Нам удалось тайком пронести чернила в это место.
+	Но не бойся, чернила в руках творческого человека - это сила добра.
+	Они опасны лишь в руках бездарных людей.
+	Именно они пишут вредные истории, изливают оскорбительные комментарии и рисуют карикатуры на реальность.
+	Персонажи, запертые в этом месте, скучают, но полны потенциала и оптимизма.
+	Они лишь ждут, когда смогут расправить крылья.
+	Направь их на верный путь, и они сами найдут свою дорогу.
+	Иди и неси творческую свободу.
+	Помоги персонажам добраться до ненаписанных страниц.
 #purgatory_hospital_text
-	Death HERE
+	Смерть ЗДЕСЬ
 #purgatory_hospital_text_02
-	is
+	это
 #purgatory_hospital_text_03
-	Life THERE
+	жизнь ТАМ
 #purgatory_hospital_room_14
-	You can't die if you never lived!!!
+	Нельзя умереть, если ты никогда не жил!!!
 #purgatory_hospital_nurse
-	Stop!
-	You have ink fever.
-	There is no known cure for this illness and the outcome is certain.
-	Initially, the virus strips you of your dignity.
-	Then it takes away individuality and personality.
-	In the end you will you will die a horrible death.
-	Alone, forgotten, scared and confused.
-	A fate so terrible that most people decide to take desperate measures.
-	Initially, we helped the infected cross to the "other side".
-	But their numbers were too large.
-	The poison bottles have dried up.
-	The blades have become dull.
-	Then the sick resorted to more drastic measures.
-	People were banging their heads against the sharp corners.
-	But their sticky, inky blood covered the walls...
-	Cushioned them.
-	Making getting hurt harder and harder...
-	So... Patients found other desperate methods.
-	Some people started pulling nails out of the boards.
-	One person ate so much garbage that he couldn't breathe.
-	Everything is better than the brutal, slow death caused by ink.
-	Unfortunately, you showed up here very late.
-	I'm powerless, and I cannot help you.
-	You have to find your own way to wake up.
+	Стой!
+	У тебя чернильная лихорадка.
+	От этой болезни не существует лекарства, и исход предрешён.
+	Сначала вирус лишает тебя достоинства.
+	Потом отнимает индивидуальность и личность.
+	В конце ты умрёшь ужасной смертью.
+	Один, забытый, напуганный и растерянный.
+	Судьба столь ужасная, что большинство решается на отчаянные меры.
+	Поначалу мы помогали заражённым перейти на "ту сторону".
+	Но их было слишком много.
+	Пузырьки с ядом опустели.
+	Лезвия затупились.
+	Тогда больные пошли на более крайние меры.
+	Люди бились головами об острые углы.
+	Но их липкая, чернильная кровь покрывала стены...
+	И смягчала удар.
+	И причинить себе вред становилось всё труднее...
+	И тогда... пациенты находили другие отчаянные способы.
+	Кто-то стал выдёргивать гвозди из досок.
+	Один человек съел столько мусора, что не мог дышать.
+	Всё лучше жестокой, медленной смерти от чернил.
+	К сожалению, ты появился здесь слишком поздно.
+	Я бессильна и не могу тебе помочь.
+	Ты должен сам найти способ проснуться.
 #purgatory_hospital_nurse_02
-	At first we used this hole to throw away bodies.
-	Too many infected, too little time and hands for a proper burial.
-	However, over time people became desperate.
-	They couldn't crack their heads open on the doorframe... so they started jumping into this hole, hoping to die.
-	There are a lot of bodies down there.
-	Corpses cushion the fall...
-	They made the landing safe.
-	That's why we covered this hole.
-	There was no reason for people to spend their final moments lying on a pile of corpses.
-	Now the moans have subsided.
-	We are the last ones left here.
-	I couldn't help these people.
-	I couldn't give them a proper burial.
-	But I can join them.
-	"Death here is life there."
-	I can only wish to wake up rested one day...
+	Сперва мы сбрасывали тела в эту яму.
+	Слишком много заражённых, слишком мало времени и рук для достойного погребения.
+	Но со временем люди отчаялись.
+	Они не могли разбить себе головы о дверной косяк... и стали прыгать в эту яму, надеясь умереть.
+	Там внизу много тел.
+	Трупы смягчают падение...
+	Они сделали приземление безопасным.
+	Потому мы и закрыли эту яму.
+	Незачем людям проводить последние мгновения, лёжа на груде трупов.
+	Теперь стоны стихли.
+	Мы последние, кто здесь остался.
+	Я не смогла помочь этим людям.
+	Не смогла их достойно похоронить.
+	Но я могу присоединиться к ним.
+	"Смерть здесь - это жизнь там".
+	Мне остаётся лишь надеяться, что однажды я проснусь отдохнувшей...
 #purgatory_hospital_cold_liquids
-	Cold Liquids
+	Жидкости
 #purgatory_hospital_eye
-	I'm happy to finally meet you.
-	I wish I could show up sooner, but I needed you to experience this place.
-	Everything here is rotting, a caricature of its former glory.
-	But there is still hope...
-	Beneath these bloody and ink-soaked pages lies something else.
-	The stack of papers is high, and at the very bottom are unused and forgotten ideas.
-	They are completely different from here.
-	That place was never touched by the destructive energy of ink and self - doubt.
-	Down there everything is drawn with an ordinary, boring pencil.
-	Uninspired, abandoned sketches.
-	It is there that we must seek purpose, because here there is no hope...
-	So... I won't waste any more time...
-	See you there.
+	Я рад наконец встретиться с тобой.
+	Хотел бы объявиться раньше, но мне было нужно, чтобы ты прочувствовал это место.
+	Здесь всё гниёт, карикатура на былую славу.
+	Но надежда ещё есть...
+	Под этими окровавленными и пропитанными чернилами страницами лежит нечто иное.
+	Стопка бумаг высока, а на самом её дне неиспользованные, забытые идеи.
+	Они совсем не похожи на здешние.
+	Того места никогда не касалась разрушительная энергия чернил и неуверенности в себе.
+	Там, внизу, всё нарисовано обычным, скучным карандашом.
+	Безыдейные, брошенные наброски.
+	Именно там нам и стоит искать смысл, ведь здесь надежды нет...
+	Что ж... не буду больше терять время...
+	Увидимся там.
 #purgatory_the_end
-	The End
+	Конец
