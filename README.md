@@ -8,12 +8,12 @@ https://boosty.to/faetterp
 
 ---
 
-![image](https://github.com/user-attachments/assets/344fefa4-bf9d-4bb2-b44f-f6932bf74b05)
-![image](https://github.com/user-attachments/assets/c41f7b07-a153-4a23-b37c-16a18389a85a)
+![image](https://github.com/user-attachments/assets/46300260-5b0a-4ee4-9a77-9eeb49be0ad0)
+![image](https://github.com/user-attachments/assets/f390fdd1-93af-4a0e-8a69-aff6cb0f8913)
 
 ## Установка
 
-1) Скачать архив: https://github.com/FaetterP/Bad-Dream-Purgatory-Rus/releases/download/v25-07-2026/Bad-Dream-Purgatory-Rus.zip
+1) Скачать архив: https://github.com/FaetterP/Bad-Dream-Purgatory-Rus/releases/download/v26-07-2026/Bad-Dream-Purgatory-Rus.zip
 
 2) Открыть папку с игрой.  
 Для этого в библиотеке нужно найти игру, нажать ПКМ и выбрать `Управление → Просмотреть локальные файлы`.  
